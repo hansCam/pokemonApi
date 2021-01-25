@@ -15,16 +15,16 @@ export const getAllPokemonControllers = (knex:Knex): ReadPokemonsContract => ({
 
 
  const getAll = (Knex:Knex) :GetAllPokemon => (req,reply) => (
-    getAllPokemon(Knex).then((response:Array<object>)=>reply.status(200).send({pokemon:response}))
+    getAllPokemon(Knex).then((response:Array<object>) => reply.status(200).send({pokemon:response}))
   );
 
 
  const getOn = (Knex:Knex) :GetOnePokemon => (req,reply) => (
-    getOne(Knex,req.params.id).then((response:any)=>console.log(response))
+    getOne(Knex,req.params.id).then((response:any) => console.log(response))
   );
 
  const updateOne = (Knex:Knex) :UpdatePokemon => (req,reply) => (
-    update(Knex,req.params.id).then((response:any)=>reply.send({response:"pokemon updated"}))
+    update(Knex,req.params.id).then((response:any) => reply.send({response:"pokemon updated"}))
  );
       
  const deleteOne = (Knex:Knex) :DeleteOnePokemon => (req,reply) => (

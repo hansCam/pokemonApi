@@ -63,7 +63,7 @@ interface ReadPokemonsContract<S extends RawServerBase = http.Server> {
   addPokemon: AddPokemon<S>;
   getOnePokemon: GetOnePokemon<S>;
   updatePokemon: UpdatePokemon<S>;
-  deleteOnePokemon: DeleteOnePokemon<S>
+  deleteOnePokemon: DeleteOnePokemon<S>;
 }
 
 export default ReadPokemonsContract
