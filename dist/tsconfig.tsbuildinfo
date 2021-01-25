@@ -1,0 +1,2220 @@
+{
+  "program": {
+    "fileInfos": {
+      "../node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "9622e8bd7cc72a7dab819a8011ecbf81d443638082e5cb99ecf2e75ff56ffc9d",
+        "signature": "9622e8bd7cc72a7dab819a8011ecbf81d443638082e5cb99ecf2e75ff56ffc9d",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.d.ts": {
+        "version": "dc47c4fa66b9b9890cf076304de2a9c5201e94b740cffdf09f87296d877d71f6",
+        "signature": "dc47c4fa66b9b9890cf076304de2a9c5201e94b740cffdf09f87296d877d71f6",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/typescript/lib/lib.es2016.d.ts": {
+        "version": "7a387c58583dfca701b6c85e0adaf43fb17d590fb16d5b2dc0a2fbd89f35c467",
+        "signature": "7a387c58583dfca701b6c85e0adaf43fb17d590fb16d5b2dc0a2fbd89f35c467",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/typescript/lib/lib.es2017.d.ts": {
+        "version": "8a12173c586e95f4433e0c6dc446bc88346be73ffe9ca6eec7aa63c8f3dca7f9",
+        "signature": "8a12173c586e95f4433e0c6dc446bc88346be73ffe9ca6eec7aa63c8f3dca7f9",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/typescript/lib/lib.es2018.d.ts": {
+        "version": "5f4e733ced4e129482ae2186aae29fde948ab7182844c3a5a51dd346182c7b06",
+        "signature": "5f4e733ced4e129482ae2186aae29fde948ab7182844c3a5a51dd346182c7b06",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/typescript/lib/lib.es2019.d.ts": {
+        "version": "e6b724280c694a9f588847f754198fb96c43d805f065c3a5b28bbc9594541c84",
+        "signature": "e6b724280c694a9f588847f754198fb96c43d805f065c3a5b28bbc9594541c84",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/typescript/lib/lib.dom.d.ts": {
+        "version": "abadddbf660adeec27e9a56584907d52fa1d6e1e1dc49f639a921baa951b7a84",
+        "signature": "abadddbf660adeec27e9a56584907d52fa1d6e1e1dc49f639a921baa951b7a84",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.dom.iterable.d.ts": {
+        "version": "d42f4141bd9ce82b4e2902f26acb00c183e321be19a38bbc0e76a922c1724c94",
+        "signature": "d42f4141bd9ce82b4e2902f26acb00c183e321be19a38bbc0e76a922c1724c94",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.webworker.importscripts.d.ts": {
+        "version": "7fac8cb5fc820bc2a59ae11ef1c5b38d3832c6d0dfaec5acdb5569137d09a481",
+        "signature": "7fac8cb5fc820bc2a59ae11ef1c5b38d3832c6d0dfaec5acdb5569137d09a481",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.scripthost.d.ts": {
+        "version": "097a57355ded99c68e6df1b738990448e0bf170e606707df5a7c0481ff2427cd",
+        "signature": "097a57355ded99c68e6df1b738990448e0bf170e606707df5a7c0481ff2427cd",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.core.d.ts": {
+        "version": "46ee15e9fefa913333b61eaf6b18885900b139867d89832a515059b62cf16a17",
+        "signature": "46ee15e9fefa913333b61eaf6b18885900b139867d89832a515059b62cf16a17",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.collection.d.ts": {
+        "version": "43fb1d932e4966a39a41b464a12a81899d9ae5f2c829063f5571b6b87e6d2f9c",
+        "signature": "43fb1d932e4966a39a41b464a12a81899d9ae5f2c829063f5571b6b87e6d2f9c",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.generator.d.ts": {
+        "version": "cdccba9a388c2ee3fd6ad4018c640a471a6c060e96f1232062223063b0a5ac6a",
+        "signature": "cdccba9a388c2ee3fd6ad4018c640a471a6c060e96f1232062223063b0a5ac6a",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
+        "version": "8b2a5df1ce95f78f6b74f1a555ccdb6baab0486b42d8345e0871dd82811f9b9a",
+        "signature": "8b2a5df1ce95f78f6b74f1a555ccdb6baab0486b42d8345e0871dd82811f9b9a",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.promise.d.ts": {
+        "version": "2bb4b3927299434052b37851a47bf5c39764f2ba88a888a107b32262e9292b7c",
+        "signature": "2bb4b3927299434052b37851a47bf5c39764f2ba88a888a107b32262e9292b7c",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
+        "version": "7207e317a2cb07a177e7d963ab7b8c0e85dde7f9ddb50351f830239bf597569e",
+        "signature": "7207e317a2cb07a177e7d963ab7b8c0e85dde7f9ddb50351f830239bf597569e",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
+        "version": "cb609802a8698aa28b9c56331d4b53f590ca3c1c3a255350304ae3d06017779d",
+        "signature": "cb609802a8698aa28b9c56331d4b53f590ca3c1c3a255350304ae3d06017779d",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
+        "version": "3013574108c36fd3aaca79764002b3717da09725a36a6fc02eac386593110f93",
+        "signature": "3013574108c36fd3aaca79764002b3717da09725a36a6fc02eac386593110f93",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
+        "version": "9d122b7e8c1a5c72506eea50c0973cba55b92b5532d5cafa8a6ce2c547d57551",
+        "signature": "9d122b7e8c1a5c72506eea50c0973cba55b92b5532d5cafa8a6ce2c547d57551",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2016.array.include.d.ts": {
+        "version": "3be5a1453daa63e031d266bf342f3943603873d890ab8b9ada95e22389389006",
+        "signature": "3be5a1453daa63e031d266bf342f3943603873d890ab8b9ada95e22389389006",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2017.object.d.ts": {
+        "version": "17bb1fc99591b00515502d264fa55dc8370c45c5298f4a5c2083557dccba5a2a",
+        "signature": "17bb1fc99591b00515502d264fa55dc8370c45c5298f4a5c2083557dccba5a2a",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": {
+        "version": "7ce9f0bde3307ca1f944119f6365f2d776d281a393b576a18a2f2893a2d75c98",
+        "signature": "7ce9f0bde3307ca1f944119f6365f2d776d281a393b576a18a2f2893a2d75c98",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2017.string.d.ts": {
+        "version": "6a6b173e739a6a99629a8594bfb294cc7329bfb7b227f12e1f7c11bc163b8577",
+        "signature": "6a6b173e739a6a99629a8594bfb294cc7329bfb7b227f12e1f7c11bc163b8577",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2017.intl.d.ts": {
+        "version": "12a310447c5d23c7d0d5ca2af606e3bd08afda69100166730ab92c62999ebb9d",
+        "signature": "12a310447c5d23c7d0d5ca2af606e3bd08afda69100166730ab92c62999ebb9d",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": {
+        "version": "b0124885ef82641903d232172577f2ceb5d3e60aed4da1153bab4221e1f6dd4e",
+        "signature": "b0124885ef82641903d232172577f2ceb5d3e60aed4da1153bab4221e1f6dd4e",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2018.asyncgenerator.d.ts": {
+        "version": "0eb85d6c590b0d577919a79e0084fa1744c1beba6fd0d4e951432fa1ede5510a",
+        "signature": "0eb85d6c590b0d577919a79e0084fa1744c1beba6fd0d4e951432fa1ede5510a",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": {
+        "version": "a40c4d82bf13fcded295ac29f354eb7d40249613c15e07b53f2fc75e45e16359",
+        "signature": "a40c4d82bf13fcded295ac29f354eb7d40249613c15e07b53f2fc75e45e16359",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2018.intl.d.ts": {
+        "version": "df9c8a72ca8b0ed62f5470b41208a0587f0f73f0a7db28e5a1272cf92537518e",
+        "signature": "df9c8a72ca8b0ed62f5470b41208a0587f0f73f0a7db28e5a1272cf92537518e",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2018.promise.d.ts": {
+        "version": "bb2d3fb05a1d2ffbca947cc7cbc95d23e1d053d6595391bd325deb265a18d36c",
+        "signature": "bb2d3fb05a1d2ffbca947cc7cbc95d23e1d053d6595391bd325deb265a18d36c",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2018.regexp.d.ts": {
+        "version": "c80df75850fea5caa2afe43b9949338ce4e2de086f91713e9af1a06f973872b8",
+        "signature": "c80df75850fea5caa2afe43b9949338ce4e2de086f91713e9af1a06f973872b8",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2019.array.d.ts": {
+        "version": "9d57b2b5d15838ed094aa9ff1299eecef40b190722eb619bac4616657a05f951",
+        "signature": "9d57b2b5d15838ed094aa9ff1299eecef40b190722eb619bac4616657a05f951",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2019.object.d.ts": {
+        "version": "6c51b5dd26a2c31dbf37f00cfc32b2aa6a92e19c995aefb5b97a3a64f1ac99de",
+        "signature": "6c51b5dd26a2c31dbf37f00cfc32b2aa6a92e19c995aefb5b97a3a64f1ac99de",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2019.string.d.ts": {
+        "version": "93544ca2f26a48716c1b6c5091842cad63129daac422dfa4bc52460465f22bb1",
+        "signature": "93544ca2f26a48716c1b6c5091842cad63129daac422dfa4bc52460465f22bb1",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2019.symbol.d.ts": {
+        "version": "2ad234885a4240522efccd77de6c7d99eecf9b4de0914adb9a35c0c22433f993",
+        "signature": "2ad234885a4240522efccd77de6c7d99eecf9b4de0914adb9a35c0c22433f993",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2020.bigint.d.ts": {
+        "version": "7b5a10e3c897fabece5a51aa85b4111727d7adb53c2734b5d37230ff96802a09",
+        "signature": "7b5a10e3c897fabece5a51aa85b4111727d7adb53c2734b5d37230ff96802a09",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.esnext.intl.d.ts": {
+        "version": "89bf2b7a601b73ea4311eda9c41f86a58994fec1bee3b87c4a14d68d9adcdcbd",
+        "signature": "89bf2b7a601b73ea4311eda9c41f86a58994fec1bee3b87c4a14d68d9adcdcbd",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/typescript/lib/lib.es2019.full.d.ts": {
+        "version": "1f03b495671c3a1bd24510f38b8947f0991dfd6bf0278c68eca14af15b306e1f",
+        "signature": "1f03b495671c3a1bd24510f38b8947f0991dfd6bf0278c68eca14af15b306e1f",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/light-my-request/index.d.ts": {
+        "version": "75f918141839fc96412d89cf67401cd2cea0385ec8f296e6f16ab4f929353509",
+        "signature": "75f918141839fc96412d89cf67401cd2cea0385ec8f296e6f16ab4f929353509",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/fastify-error/index.d.ts": {
+        "version": "b3fb3d7dd97f16eb27f2575c76c08d82fba8a36775f1b50ea5187fa04a947ae3",
+        "signature": "b3fb3d7dd97f16eb27f2575c76c08d82fba8a36775f1b50ea5187fa04a947ae3",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/fastify/types/utils.d.ts": {
+        "version": "3d04a113cb67cdb802916104969c9b29e1b58d417a69a58b84a1ed01f182d83a",
+        "signature": "3d04a113cb67cdb802916104969c9b29e1b58d417a69a58b84a1ed01f182d83a",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/fastify/types/logger.d.ts": {
+        "version": "61b52bc0c01036399055843e0185a3f191aaf8c8e0d3e294cb38a85eae7b938d",
+        "signature": "61b52bc0c01036399055843e0185a3f191aaf8c8e0d3e294cb38a85eae7b938d",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/fastify/types/schema.d.ts": {
+        "version": "c863ee0434803e811653170e3818ecb625e6a65ab6be25b6459da7bbe57d8234",
+        "signature": "c863ee0434803e811653170e3818ecb625e6a65ab6be25b6459da7bbe57d8234",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/fastify/types/plugin.d.ts": {
+        "version": "e90f40b3312977f56d853fd595c97494e7504bf502a2c5b6f198f06c5ff1fd07",
+        "signature": "e90f40b3312977f56d853fd595c97494e7504bf502a2c5b6f198f06c5ff1fd07",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/fastify/types/register.d.ts": {
+        "version": "321029165fc9b11768bb0e57272165b1a981872654321669f2ba6c7ab1ff7d65",
+        "signature": "321029165fc9b11768bb0e57272165b1a981872654321669f2ba6c7ab1ff7d65",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/fastify/types/context.d.ts": {
+        "version": "6401242639e3ea192ed27f62543fe968a2a0d4f43abdeb042d74b02b10cf22cd",
+        "signature": "6401242639e3ea192ed27f62543fe968a2a0d4f43abdeb042d74b02b10cf22cd",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/fastify/types/reply.d.ts": {
+        "version": "58d3dffb4bd682fe43696f717d126f3dc02a3175b8e54709365089723a7b9335",
+        "signature": "58d3dffb4bd682fe43696f717d126f3dc02a3175b8e54709365089723a7b9335",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/fastify/types/hooks.d.ts": {
+        "version": "21b15bf2091138088074bcd58750440677e2faaab6c4338cec0bff61386c6455",
+        "signature": "21b15bf2091138088074bcd58750440677e2faaab6c4338cec0bff61386c6455",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/fastify/types/content-type-parser.d.ts": {
+        "version": "7d6c216ef628f6e1d31f93dca938d23efd7c68a3297bd6c618a9c6bf913045a5",
+        "signature": "7d6c216ef628f6e1d31f93dca938d23efd7c68a3297bd6c618a9c6bf913045a5",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/fastify/types/instance.d.ts": {
+        "version": "397a04e3bfa3e2ff9627749c6b154f633066e7737b7bc8f73b832c1c4c664d9d",
+        "signature": "397a04e3bfa3e2ff9627749c6b154f633066e7737b7bc8f73b832c1c4c664d9d",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/fastify/types/route.d.ts": {
+        "version": "10da924979c704819dabd65433418c99b9802c16c6b3bb6f09ef527010468dc4",
+        "signature": "10da924979c704819dabd65433418c99b9802c16c6b3bb6f09ef527010468dc4",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/fastify/types/request.d.ts": {
+        "version": "e4ecadbb7d090da11ff638b7daf2f501d9ef7349d776f70d7e722a8009270249",
+        "signature": "e4ecadbb7d090da11ff638b7daf2f501d9ef7349d776f70d7e722a8009270249",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/fastify/types/serverfactory.d.ts": {
+        "version": "7247fd1853426de8fdc38a7027b488498bb00ea62c9a99037a760520e3944a26",
+        "signature": "7247fd1853426de8fdc38a7027b488498bb00ea62c9a99037a760520e3944a26",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/ajv/lib/ajv.d.ts": {
+        "version": "67f129ed8b372622ff36b8b10e39d03e09e363a5ff7821105f92f085b8d1ccba",
+        "signature": "67f129ed8b372622ff36b8b10e39d03e09e363a5ff7821105f92f085b8d1ccba",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/fastify/fastify.d.ts": {
+        "version": "ca0bf98de988f846490ec0faba4d6448a9069096e06e34e9743856422cedfb93",
+        "signature": "ca0bf98de988f846490ec0faba4d6448a9069096e06e34e9743856422cedfb93",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/globals.d.ts": {
+        "version": "215d8d9a2c480fd460127edc048d68d9931d3b27f95132253a6e71975f060bb1",
+        "signature": "215d8d9a2c480fd460127edc048d68d9931d3b27f95132253a6e71975f060bb1",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/node/async_hooks.d.ts": {
+        "version": "c438b413e94ff76dfa20ae005f33a1c84f2480d1d66e0fd687501020d0de9b50",
+        "signature": "c438b413e94ff76dfa20ae005f33a1c84f2480d1d66e0fd687501020d0de9b50",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/buffer.d.ts": {
+        "version": "bc6a78961535181265845bf9b9e8a147ffd0ca275097ceb670a9b92afa825152",
+        "signature": "bc6a78961535181265845bf9b9e8a147ffd0ca275097ceb670a9b92afa825152",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/child_process.d.ts": {
+        "version": "a4b5411d87995b9fb847f491f4388b38f829d8ab39be3e2fd65a3e40709f29a8",
+        "signature": "a4b5411d87995b9fb847f491f4388b38f829d8ab39be3e2fd65a3e40709f29a8",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/cluster.d.ts": {
+        "version": "123ec69e4b3a686eb49afd94ebe3292a5c84a867ecbcb6bb84bdd720a12af803",
+        "signature": "123ec69e4b3a686eb49afd94ebe3292a5c84a867ecbcb6bb84bdd720a12af803",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/console.d.ts": {
+        "version": "eb5197aade83cb0e360ac407289c53a8009e8fdae7939892a0240d30444496b6",
+        "signature": "eb5197aade83cb0e360ac407289c53a8009e8fdae7939892a0240d30444496b6",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/node/constants.d.ts": {
+        "version": "90c85ddbb8de82cd19198bda062065fc51b7407c0f206f2e399e65a52e979720",
+        "signature": "90c85ddbb8de82cd19198bda062065fc51b7407c0f206f2e399e65a52e979720",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/crypto.d.ts": {
+        "version": "3d9c3ccc05ebc6e288bef007bcc47a2fc0dce748ea634093ef0732b9be743805",
+        "signature": "3d9c3ccc05ebc6e288bef007bcc47a2fc0dce748ea634093ef0732b9be743805",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/dgram.d.ts": {
+        "version": "7e050b767ed10c7ffbc01f314defbf420bf0b5d54ce666e1c87507c035dfc191",
+        "signature": "7e050b767ed10c7ffbc01f314defbf420bf0b5d54ce666e1c87507c035dfc191",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/dns.d.ts": {
+        "version": "d6bc4b879a18de0a1ba065b9a1c6888c67d98f3fe4886584459cdaa9e211a5f7",
+        "signature": "d6bc4b879a18de0a1ba065b9a1c6888c67d98f3fe4886584459cdaa9e211a5f7",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/domain.d.ts": {
+        "version": "2866a528b2708aa272ec3eaafd3c980abb23aec1ef831cfc5eb2186b98c37ce5",
+        "signature": "2866a528b2708aa272ec3eaafd3c980abb23aec1ef831cfc5eb2186b98c37ce5",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/node/events.d.ts": {
+        "version": "153d835dc32985120790e10102834b0a5bd979bb5e42bfbb33c0ff6260cf03ce",
+        "signature": "153d835dc32985120790e10102834b0a5bd979bb5e42bfbb33c0ff6260cf03ce",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/node/fs.d.ts": {
+        "version": "80b94a222a5e83289583833de76f8b3a5962ec4c3803690e20c875a2776ddfdc",
+        "signature": "80b94a222a5e83289583833de76f8b3a5962ec4c3803690e20c875a2776ddfdc",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/fs/promises.d.ts": {
+        "version": "05b5679a897598ebe556ee93415b3af1f456e674ea82e4d7afcd716bfe43aa98",
+        "signature": "05b5679a897598ebe556ee93415b3af1f456e674ea82e4d7afcd716bfe43aa98",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/http.d.ts": {
+        "version": "f2f8a385694fd71a421616cbaca477a539f30f4098f11261b1d188d72dc3478a",
+        "signature": "f2f8a385694fd71a421616cbaca477a539f30f4098f11261b1d188d72dc3478a",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/http2.d.ts": {
+        "version": "f15f1f1104aaf47d25124de81949375416e3f8ee704e3d221bea339e35421edb",
+        "signature": "f15f1f1104aaf47d25124de81949375416e3f8ee704e3d221bea339e35421edb",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/https.d.ts": {
+        "version": "c969bf4c7cdfe4d5dd28aa09432f99d09ad1d8d8b839959646579521d0467d1a",
+        "signature": "c969bf4c7cdfe4d5dd28aa09432f99d09ad1d8d8b839959646579521d0467d1a",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/inspector.d.ts": {
+        "version": "6c3857edaeeaaf43812f527830ebeece9266b6e8eb5271ab6d2f0008306c9947",
+        "signature": "6c3857edaeeaaf43812f527830ebeece9266b6e8eb5271ab6d2f0008306c9947",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/module.d.ts": {
+        "version": "bc6a77e750f4d34584e46b1405b771fb69a224197dd6bafe5b0392a29a70b665",
+        "signature": "bc6a77e750f4d34584e46b1405b771fb69a224197dd6bafe5b0392a29a70b665",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/net.d.ts": {
+        "version": "5345d90ffb42ef6a15807f494b38b818f668f5fd6e5086586497ea0125334cd4",
+        "signature": "5345d90ffb42ef6a15807f494b38b818f668f5fd6e5086586497ea0125334cd4",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/os.d.ts": {
+        "version": "ed4ae81196cccc10f297d228bca8d02e31058e6d723a3c5bc4be5fb3c61c6a34",
+        "signature": "ed4ae81196cccc10f297d228bca8d02e31058e6d723a3c5bc4be5fb3c61c6a34",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/path.d.ts": {
+        "version": "84044697c8b3e08ef24e4b32cfe6440143d07e469a5e34bda0635276d32d9f35",
+        "signature": "84044697c8b3e08ef24e4b32cfe6440143d07e469a5e34bda0635276d32d9f35",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/perf_hooks.d.ts": {
+        "version": "4982d94cb6427263c8839d8d6324a8bbe129e931deb61a7380f8fad17ba2cfc0",
+        "signature": "4982d94cb6427263c8839d8d6324a8bbe129e931deb61a7380f8fad17ba2cfc0",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/process.d.ts": {
+        "version": "ae4bc1dd4d9de7bbea6ce419db45af82a81358e6014c9e1235b5d252e06f8ab8",
+        "signature": "ae4bc1dd4d9de7bbea6ce419db45af82a81358e6014c9e1235b5d252e06f8ab8",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/node/punycode.d.ts": {
+        "version": "3f6a1fd73c9dc3bd7f4b79bc075297ca6527904df69b0f2c2c94e4c4c7d9a32c",
+        "signature": "3f6a1fd73c9dc3bd7f4b79bc075297ca6527904df69b0f2c2c94e4c4c7d9a32c",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/querystring.d.ts": {
+        "version": "884560fda6c3868f925f022adc3a1289fe6507bbb45adb10fa1bbcc73a941bb0",
+        "signature": "884560fda6c3868f925f022adc3a1289fe6507bbb45adb10fa1bbcc73a941bb0",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/readline.d.ts": {
+        "version": "6b2bb67b0942bcfce93e1d6fad5f70afd54940a2b13df7f311201fba54b2cbe9",
+        "signature": "6b2bb67b0942bcfce93e1d6fad5f70afd54940a2b13df7f311201fba54b2cbe9",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/repl.d.ts": {
+        "version": "acbed967a379b3e9f73237ba9473f8b337eeea14b7dc64d445430b5d695751da",
+        "signature": "acbed967a379b3e9f73237ba9473f8b337eeea14b7dc64d445430b5d695751da",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/stream.d.ts": {
+        "version": "e7b5a3f40f19d9eea71890c70dfb37ac5dd82cbffe5f95bc8f23c536455732d0",
+        "signature": "e7b5a3f40f19d9eea71890c70dfb37ac5dd82cbffe5f95bc8f23c536455732d0",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/string_decoder.d.ts": {
+        "version": "d67e08745494b000da9410c1ae2fdc9965fc6d593fe0f381a47491f75417d457",
+        "signature": "d67e08745494b000da9410c1ae2fdc9965fc6d593fe0f381a47491f75417d457",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/timers.d.ts": {
+        "version": "b40652bf8ce4a18133b31349086523b219724dca8df3448c1a0742528e7ad5b9",
+        "signature": "b40652bf8ce4a18133b31349086523b219724dca8df3448c1a0742528e7ad5b9",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/tls.d.ts": {
+        "version": "c52eb62e3388a01b966c57bd14ca0ee9d5f6e656d6a18f6ce6b7cdece63734a3",
+        "signature": "c52eb62e3388a01b966c57bd14ca0ee9d5f6e656d6a18f6ce6b7cdece63734a3",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/trace_events.d.ts": {
+        "version": "a77fdb357c78b70142b2fdbbfb72958d69e8f765fd2a3c69946c1018e89d4638",
+        "signature": "a77fdb357c78b70142b2fdbbfb72958d69e8f765fd2a3c69946c1018e89d4638",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/tty.d.ts": {
+        "version": "3c2ac350c3baa61fd2b1925844109e098f4376d0768a4643abc82754fd752748",
+        "signature": "3c2ac350c3baa61fd2b1925844109e098f4376d0768a4643abc82754fd752748",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/url.d.ts": {
+        "version": "4001971b90f18161f7bd46d68150d32a5da47e3f177956a267a2b29a2771896a",
+        "signature": "4001971b90f18161f7bd46d68150d32a5da47e3f177956a267a2b29a2771896a",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/util.d.ts": {
+        "version": "f28704c27e1bd58068052f5407541a3306f0ffc77f068e2891f46527a4569e25",
+        "signature": "f28704c27e1bd58068052f5407541a3306f0ffc77f068e2891f46527a4569e25",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/v8.d.ts": {
+        "version": "289be113bad7ee27ee7fa5b1e373c964c9789a5e9ed7db5ddcb631371120b953",
+        "signature": "289be113bad7ee27ee7fa5b1e373c964c9789a5e9ed7db5ddcb631371120b953",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/vm.d.ts": {
+        "version": "baf0b82ffc5d2616f44a6fb1f81e8d798545bebf0c30f5d8b003a1dba1acfb3f",
+        "signature": "baf0b82ffc5d2616f44a6fb1f81e8d798545bebf0c30f5d8b003a1dba1acfb3f",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/worker_threads.d.ts": {
+        "version": "c6a5b34f1e725019445754f1e733585f113e0dced75f137bd3c4af5853d3f6ab",
+        "signature": "c6a5b34f1e725019445754f1e733585f113e0dced75f137bd3c4af5853d3f6ab",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/zlib.d.ts": {
+        "version": "15fbe50526244954eb2f933546bca6cdcf0db16c9428d099b3b386c1db5799ab",
+        "signature": "15fbe50526244954eb2f933546bca6cdcf0db16c9428d099b3b386c1db5799ab",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/ts3.4/base.d.ts": {
+        "version": "d44028ae0127eb3e9fcfa5f55a8b81d64775ce15aca1020fe25c511bbb055834",
+        "signature": "d44028ae0127eb3e9fcfa5f55a8b81d64775ce15aca1020fe25c511bbb055834",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/globals.global.d.ts": {
+        "version": "2708349d5a11a5c2e5f3a0765259ebe7ee00cdcc8161cb9990cb4910328442a1",
+        "signature": "2708349d5a11a5c2e5f3a0765259ebe7ee00cdcc8161cb9990cb4910328442a1",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@types/node/wasi.d.ts": {
+        "version": "4e0a4d84b15692ea8669fe4f3d05a4f204567906b1347da7a58b75f45bae48d3",
+        "signature": "4e0a4d84b15692ea8669fe4f3d05a4f204567906b1347da7a58b75f45bae48d3",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/ts3.6/base.d.ts": {
+        "version": "ad1ae5ae98eceb9af99061e83e867b9897d267aebc8f3b938c9424deabadf4bb",
+        "signature": "ad1ae5ae98eceb9af99061e83e867b9897d267aebc8f3b938c9424deabadf4bb",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/assert.d.ts": {
+        "version": "b3593bd345ebea5e4d0a894c03251a3774b34df3d6db57075c18e089a599ba76",
+        "signature": "b3593bd345ebea5e4d0a894c03251a3774b34df3d6db57075c18e089a599ba76",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/base.d.ts": {
+        "version": "e61a21e9418f279bc480394a94d1581b2dee73747adcbdef999b6737e34d721b",
+        "signature": "e61a21e9418f279bc480394a94d1581b2dee73747adcbdef999b6737e34d721b",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/node/index.d.ts": {
+        "version": "744e6430bafc6f39f66c4fc1e6a0d8c9551260ffd1782aa7e3f5166ac6aa1f86",
+        "signature": "744e6430bafc6f39f66c4fc1e6a0d8c9551260ffd1782aa7e3f5166ac6aa1f86",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/tarn/dist/promiseinspection.d.ts": {
+        "version": "7e237225efc4fbb50af46753e1db2cf7a72c832e94925621acff5062d83b6bcf",
+        "signature": "7e237225efc4fbb50af46753e1db2cf7a72c832e94925621acff5062d83b6bcf",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/tarn/dist/utils.d.ts": {
+        "version": "ece7b8ed429451273974cc32aca62c0240e76b6fe17302093fcb690eefed0442",
+        "signature": "ece7b8ed429451273974cc32aca62c0240e76b6fe17302093fcb690eefed0442",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/tarn/dist/pendingoperation.d.ts": {
+        "version": "52ffb3197c94d81f36466cab01bedbb99ab1a477936f864d75919e29e7df072c",
+        "signature": "52ffb3197c94d81f36466cab01bedbb99ab1a477936f864d75919e29e7df072c",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/tarn/dist/resource.d.ts": {
+        "version": "599c79f2dd545782bc30a61e4034144ae62197242cadda797124f25431a1085b",
+        "signature": "599c79f2dd545782bc30a61e4034144ae62197242cadda797124f25431a1085b",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/tarn/dist/pool.d.ts": {
+        "version": "21c893348215872baf132886314d0a183fa4b050bc0f3224d358c7d9ebb47066",
+        "signature": "21c893348215872baf132886314d0a183fa4b050bc0f3224d358c7d9ebb47066",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/tarn/dist/timeouterror.d.ts": {
+        "version": "d88553098dad96f301c01f91d1aadfd9fc8edfcc34d9fa5f7c08687b02127b58",
+        "signature": "d88553098dad96f301c01f91d1aadfd9fc8edfcc34d9fa5f7c08687b02127b58",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/tarn/dist/tarn.d.ts": {
+        "version": "157e647b08b390b250a8947518c57452b2e26262efe2af16901ad1db2cefccfb",
+        "signature": "157e647b08b390b250a8947518c57452b2e26262efe2af16901ad1db2cefccfb",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/knex/types/result.d.ts": {
+        "version": "aa977c0c9bc4fa540acb6af1948fa65224e1b2b69a9e2ee73bd1917b3e9d89fb",
+        "signature": "aa977c0c9bc4fa540acb6af1948fa65224e1b2b69a9e2ee73bd1917b3e9d89fb",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/knex/types/tables.d.ts": {
+        "version": "ec982ebee52d26bdc7a7520612216c9c55e7a44e6fe0f654fb26e6ee41bc16c4",
+        "signature": "ec982ebee52d26bdc7a7520612216c9c55e7a44e6fe0f654fb26e6ee41bc16c4",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/knex/types/index.d.ts": {
+        "version": "dc42788631b6865fdfe67ccd9825d3accc3d6bd3acea3f6bced8accc75a8664f",
+        "signature": "dc42788631b6865fdfe67ccd9825d3accc3d6bd3acea3f6bced8accc75a8664f",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/fp-ts/lib/joinsemilattice.d.ts": {
+        "version": "7cacb7d6043be447426a3811ef40e5d81fca99289f991788a29494b3e528b3d5",
+        "signature": "7cacb7d6043be447426a3811ef40e5d81fca99289f991788a29494b3e528b3d5",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/fp-ts/lib/boundedjoinsemilattice.d.ts": {
+        "version": "3d69864968e13d13514d37303bcef6a965c5a3da370976ba4f2c96bbfca6f73a",
+        "signature": "3d69864968e13d13514d37303bcef6a965c5a3da370976ba4f2c96bbfca6f73a",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/fp-ts/lib/meetsemilattice.d.ts": {
+        "version": "9ec22bf34167a1e1ee4d2a44f88891bfa3a827d703758e045e46ad27c6f2bb04",
+        "signature": "9ec22bf34167a1e1ee4d2a44f88891bfa3a827d703758e045e46ad27c6f2bb04",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/fp-ts/lib/boundedmeetsemilattice.d.ts": {
+        "version": "1b4bf557e7c1b1400ea1d2021bf4a0aa94398b3949358c7520b38c7c6f3d5111",
+        "signature": "1b4bf557e7c1b1400ea1d2021bf4a0aa94398b3949358c7520b38c7c6f3d5111",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/fp-ts/lib/boundedlattice.d.ts": {
+        "version": "ce937afee0c311b592a028607381005375d5beba79b82750ee90190f210172f2",
+        "signature": "ce937afee0c311b592a028607381005375d5beba79b82750ee90190f210172f2",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/fp-ts/lib/lattice.d.ts": {
+        "version": "3d9abd8024a7cb9890821962ba50208546504ebe48ebac0be774b2c3996bf787",
+        "signature": "3d9abd8024a7cb9890821962ba50208546504ebe48ebac0be774b2c3996bf787",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/fp-ts/hkt.d.ts": {
+        "version": "54a098c654bd4a1b420702693a923df4a2e767c82fc4461550ff32b43f965511",
+        "signature": "54a098c654bd4a1b420702693a923df4a2e767c82fc4461550ff32b43f965511",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/fp-ts/lib/contravariant.d.ts": {
+        "version": "27f53cbb8bca360fec4caeabb124bc29d371b19fd5183ae7067b1ae62f27a1d1",
+        "signature": "27f53cbb8bca360fec4caeabb124bc29d371b19fd5183ae7067b1ae62f27a1d1",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/fp-ts/lib/bounded.d.ts": {
+        "version": "f9f75302784e02478da6917f4820efb633867da8bb037cec96b2318818a7ca13",
+        "signature": "f9f75302784e02478da6917f4820efb633867da8bb037cec96b2318818a7ca13",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/fp-ts/lib/function.d.ts": {
+        "version": "79dd55583b8f2adfb5c9894abdeb83fd557d1d717de10c96e4b849a6f19171e6",
+        "signature": "79dd55583b8f2adfb5c9894abdeb83fd557d1d717de10c96e4b849a6f19171e6",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/fp-ts/lib/functor.d.ts": {
+        "version": "95652e5c3398426e171c1ee53f6ccc7043846667072423d592baaae257af302d",
+        "signature": "95652e5c3398426e171c1ee53f6ccc7043846667072423d592baaae257af302d",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/fp-ts/lib/apply.d.ts": {
+        "version": "7e45bd1d3b8fb1a84e572ade2b7cb189f810a6fba05291a61a4405c431b8a24b",
+        "signature": "7e45bd1d3b8fb1a84e572ade2b7cb189f810a6fba05291a61a4405c431b8a24b",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/fp-ts/lib/applicative.d.ts": {
+        "version": "16e204fc72a65e0589b4120c52817bc5e110df780f76d54af7feb04c20c73db3",
+        "signature": "16e204fc72a65e0589b4120c52817bc5e110df780f76d54af7feb04c20c73db3",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/fp-ts/lib/alt.d.ts": {
+        "version": "5c3fab10db01d3693457f87f570af8a735d5e5f49c6afc6af491c462ab8d58ac",
+        "signature": "5c3fab10db01d3693457f87f570af8a735d5e5f49c6afc6af491c462ab8d58ac",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/fp-ts/lib/bifunctor.d.ts": {
+        "version": "168ac212cb3450fdae5870a7aab058be48f77ff6a7c9c6e2d2fe18fe1b4b6307",
+        "signature": "168ac212cb3450fdae5870a7aab058be48f77ff6a7c9c6e2d2fe18fe1b4b6307",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/fp-ts/lib/chain.d.ts": {
+        "version": "bc371fdec1ac7bbcbd28bc0fb63e16e10c86990c407db7cc9d71bec51292f366",
+        "signature": "bc371fdec1ac7bbcbd28bc0fb63e16e10c86990c407db7cc9d71bec51292f366",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/fp-ts/lib/chainrec.d.ts": {
+        "version": "8e1562c1007a9607099190e50e1f209ccdb4851012d60678597fde9011936a59",
+        "signature": "8e1562c1007a9607099190e50e1f209ccdb4851012d60678597fde9011936a59",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/fp-ts/lib/extend.d.ts": {
+        "version": "6ee39c4fb749b48fef9ce908cba025fc774b40790c5f2c0d19ed70e55d688fb6",
+        "signature": "6ee39c4fb749b48fef9ce908cba025fc774b40790c5f2c0d19ed70e55d688fb6",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/fp-ts/lib/monad.d.ts": {
+        "version": "f52166acadbc6ce500281d9d1ddc767c12f28d2664356cb8e3c095abe049b4c1",
+        "signature": "f52166acadbc6ce500281d9d1ddc767c12f28d2664356cb8e3c095abe049b4c1",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/fp-ts/lib/foldable.d.ts": {
+        "version": "5d9d8f024cb8d716a31934103ad466d5325560035f3c03175fe7527400796a00",
+        "signature": "5d9d8f024cb8d716a31934103ad466d5325560035f3c03175fe7527400796a00",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/fp-ts/lib/monadthrow.d.ts": {
+        "version": "25c318c9a9e87a1163cabfc325c6b85b14b8cfb4a01679ef4211217cb843f174",
+        "signature": "25c318c9a9e87a1163cabfc325c6b85b14b8cfb4a01679ef4211217cb843f174",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/fp-ts/lib/alternative.d.ts": {
+        "version": "376697226b23441755bd9b183f350a013e5fbaa1e86ec939bb187d6ca809d72d",
+        "signature": "376697226b23441755bd9b183f350a013e5fbaa1e86ec939bb187d6ca809d72d",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/fp-ts/lib/filterable.d.ts": {
+        "version": "702b939f2426d0a1cf9404b1eb714271c1321f11f6a3df54b7523af11ddbd221",
+        "signature": "702b939f2426d0a1cf9404b1eb714271c1321f11f6a3df54b7523af11ddbd221",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/fp-ts/lib/magma.d.ts": {
+        "version": "d86e0824f362d8bc50fd96342ee506b8db3fa371310f3ad344b9e65ccbaac846",
+        "signature": "d86e0824f362d8bc50fd96342ee506b8db3fa371310f3ad344b9e65ccbaac846",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/fp-ts/lib/semigroup.d.ts": {
+        "version": "6ef54faf50f79c590495912baab972154b00bcbb7219067999523d900aff152f",
+        "signature": "6ef54faf50f79c590495912baab972154b00bcbb7219067999523d900aff152f",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/fp-ts/lib/show.d.ts": {
+        "version": "157ad24896df24ac6faa6cc0d838c15cf5b11fd5b5bc5f9bcd7a3bae747e1756",
+        "signature": "157ad24896df24ac6faa6cc0d838c15cf5b11fd5b5bc5f9bcd7a3bae747e1756",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/fp-ts/lib/traversable.d.ts": {
+        "version": "cffd1890715b61ced2622280cd5ed0553aa960255e747c91d89b69cb01bb746f",
+        "signature": "cffd1890715b61ced2622280cd5ed0553aa960255e747c91d89b69cb01bb746f",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/fp-ts/lib/witherable.d.ts": {
+        "version": "1326b1489b72536037d6c6b7bb0db45e95ae940c12d5a5d4dddefc907f38aec4",
+        "signature": "1326b1489b72536037d6c6b7bb0db45e95ae940c12d5a5d4dddefc907f38aec4",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/fp-ts/lib/option.d.ts": {
+        "version": "58bb48f49578390a6d63bf010638f15f505186d932db8ea7338a49b048423671",
+        "signature": "58bb48f49578390a6d63bf010638f15f505186d932db8ea7338a49b048423671",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/fp-ts/lib/either.d.ts": {
+        "version": "011ef0065d3c3921e3246f2279e735e76ed822119ba0616415f51d6f2a5b2943",
+        "signature": "011ef0065d3c3921e3246f2279e735e76ed822119ba0616415f51d6f2a5b2943",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/fp-ts/lib/compactable.d.ts": {
+        "version": "4a70e0caac8a77c43749ff31a6af96c327208eaed4ffe8b98452da81a3b4a73e",
+        "signature": "4a70e0caac8a77c43749ff31a6af96c327208eaed4ffe8b98452da81a3b4a73e",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/fp-ts/lib/functorwithindex.d.ts": {
+        "version": "b5c3cdc3a9e43b3760887e8a9617c3fef6f166fd5bbdf4b187c2c314a62d8e0f",
+        "signature": "b5c3cdc3a9e43b3760887e8a9617c3fef6f166fd5bbdf4b187c2c314a62d8e0f",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/fp-ts/lib/filterablewithindex.d.ts": {
+        "version": "96c709d9b4655ad0ff4323ea245ab3aa1b5eba1b7be59c8fcc10ccfbf2be7361",
+        "signature": "96c709d9b4655ad0ff4323ea245ab3aa1b5eba1b7be59c8fcc10ccfbf2be7361",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/fp-ts/lib/foldablewithindex.d.ts": {
+        "version": "83107c85b273401c75234cd54a079d570e0c3b7a14c9c4ca1bcc8db497f90cd0",
+        "signature": "83107c85b273401c75234cd54a079d570e0c3b7a14c9c4ca1bcc8db497f90cd0",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/fp-ts/lib/traversablewithindex.d.ts": {
+        "version": "5509d07a6a598798b9a03a97e9a01ce9a949ef6914cbcb16314b9e62e74b7dd0",
+        "signature": "5509d07a6a598798b9a03a97e9a01ce9a949ef6914cbcb16314b9e62e74b7dd0",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/fp-ts/lib/unfoldable.d.ts": {
+        "version": "3a84da3d0bddb1854642016f7860853850c2073628f5e278559cac66d7ad7e7f",
+        "signature": "3a84da3d0bddb1854642016f7860853850c2073628f5e278559cac66d7ad7e7f",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/fp-ts/lib/readonlyrecord.d.ts": {
+        "version": "3d61273d1f558113b82efc2ad4407f384d6952ab4a7fff14d067ede27149608c",
+        "signature": "3d61273d1f558113b82efc2ad4407f384d6952ab4a7fff14d067ede27149608c",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/fp-ts/lib/monoid.d.ts": {
+        "version": "4d1612ef3a51430ad7132831b55cd2e65107ef045c29277859dd5dc3311ff433",
+        "signature": "4d1612ef3a51430ad7132831b55cd2e65107ef045c29277859dd5dc3311ff433",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/fp-ts/lib/eq.d.ts": {
+        "version": "077699f2100eeeee5fa16992321302e42eeb9c07077249d2bcb58f29acf49f2b",
+        "signature": "077699f2100eeeee5fa16992321302e42eeb9c07077249d2bcb58f29acf49f2b",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/fp-ts/lib/ordering.d.ts": {
+        "version": "0242dea1cf844b31a654c9f6806d70e999683e0f6045bb29b29cbcb187cbb5a0",
+        "signature": "0242dea1cf844b31a654c9f6806d70e999683e0f6045bb29b29cbcb187cbb5a0",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/fp-ts/lib/ord.d.ts": {
+        "version": "a5235ec4a0912b10436a52fb7e9a62a5cfdc56b6ebc79f2858fbcb487edeb902",
+        "signature": "a5235ec4a0912b10436a52fb7e9a62a5cfdc56b6ebc79f2858fbcb487edeb902",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/fp-ts/lib/distributivelattice.d.ts": {
+        "version": "fa4f03d8d9f8413c3ebba696280bec0ab82232258bd87d0e66ab3f2d40e182fb",
+        "signature": "fa4f03d8d9f8413c3ebba696280bec0ab82232258bd87d0e66ab3f2d40e182fb",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/fp-ts/lib/boundeddistributivelattice.d.ts": {
+        "version": "faf84534ca9be1074f8b6732c0830edc0143419a7cd1c2ba5f5b720a87039a02",
+        "signature": "faf84534ca9be1074f8b6732c0830edc0143419a7cd1c2ba5f5b720a87039a02",
+        "affectsGlobalScope": false
+      },
+      "../src/persistence/pokemonschema.ts": {
+        "version": "ad64eaa828920ed549e5046efea7522ac73670b170d1ad6b34233e24edeb213e",
+        "signature": "e74afbd7379bd04a9f951ac8723f19d827fd4d12806339d2a14c240b7dca3323",
+        "affectsGlobalScope": false
+      },
+      "../src/services/fil.db.ts": {
+        "version": "1214d5e54dd85548433717fa839da5da7a4ae5b97b2939ef4a941e0633322c88",
+        "signature": "e36b3bd9824a915f19e2d570c06bc463f7e8efa617bdf4568c8b8188f1a1af78",
+        "affectsGlobalScope": false
+      },
+      "../src/migrations/init_db.ts": {
+        "version": "3643ded8c605413e853629e193ad5a112eb260e398b41a26e9ea250599f437b5",
+        "signature": "d4e19d2a003174401be4b25c0613479781ae802233e780874e27ed155ba570cb",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/io-ts/lib/index.d.ts": {
+        "version": "d2d283cc4565a2f8ba8ce7cdd7bb1bbf4f3fba1b22730ed831beec33034cabfa",
+        "signature": "d2d283cc4565a2f8ba8ce7cdd7bb1bbf4f3fba1b22730ed831beec33034cabfa",
+        "affectsGlobalScope": false
+      },
+      "../src/generated/types/pokemon.ts": {
+        "version": "36f6258b65c158e0b53c6c7d54782d09e5049dc4c3ab46d0fd3114fb0f6b63c9",
+        "signature": "94bc8c3dcf521f53775a1c95bf31ed0b28ed3fb72c4f4c71bc135887c97f79e3",
+        "affectsGlobalScope": false
+      },
+      "../src/generated/types/pokemons.ts": {
+        "version": "52f7d7ce038f84df7cd040726e58b49b8398c54c2875321cf8da0675fada16f8",
+        "signature": "a0376417f193b1ec165ba8b0e865436bb00d9e9e72832bb34809ecf8cfceac92",
+        "affectsGlobalScope": false
+      },
+      "../src/generated/contracts/readpokemonscontract.ts": {
+        "version": "439b4d5d14c956f5877b1ce08577c9be8affdcdf9dedf9798595da550691d67e",
+        "signature": "6d87d35feba22b70e9047597c234c80ebbae1af286b1e6523e15a076857b33a2",
+        "affectsGlobalScope": false
+      },
+      "../src/generated/contracts/registerfastify.ts": {
+        "version": "a81b495230525c81440da2211f201588bc76176fa173cca9a5cf08ed6badf104",
+        "signature": "2e945a13400f8cd4bc07a358e3c9abb1b2f471405f3998cfddee0e104246e1c5",
+        "affectsGlobalScope": false
+      },
+      "../src/persistence/pokemon.ts": {
+        "version": "0a866d3c2efac07861ac98e4d07944dd5fe0de6b0ef181d34bcd17a5959736ee",
+        "signature": "94c811f8381f64c65e933e62401bdc573f93e290a9a0f921cc36a91b713c0019",
+        "affectsGlobalScope": false
+      },
+      "../src/persistence/pokemonrepository.ts": {
+        "version": "b57c76eb41c90882a9b69e8d6a4a438a7432752c639172b299535ab22bb18881",
+        "signature": "7c43c1b3ec39ba26f587b6d3672aeb3cd8feb9d5ab6be8565f23479941405361",
+        "affectsGlobalScope": false
+      },
+      "../src/controllers/pokemon.controllers.ts": {
+        "version": "d7c531a3555ca1ce122c7760079e92e3dae10402b574ec825b0818c39cd57201",
+        "signature": "7c18a5002513a5c68c436f00f92c682a72bce5552db8f06241c3c5db4abb2e24",
+        "affectsGlobalScope": false
+      },
+      "../src/index.ts": {
+        "version": "2163be57427e0b3b6d54471601b95e4e18ac866ee2fbd90ce61525e2e373be3d",
+        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/json-schema/index.d.ts": {
+        "version": "3a1e165b22a1cb8df82c44c9a09502fd2b33f160cd277de2cd3a055d8e5c6b27",
+        "signature": "3a1e165b22a1cb8df82c44c9a09502fd2b33f160cd277de2cd3a055d8e5c6b27",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/parse-json/index.d.ts": {
+        "version": "2b8264b2fefd7367e0f20e2c04eed5d3038831fe00f5efbc110ff0131aab899b",
+        "signature": "2b8264b2fefd7367e0f20e2c04eed5d3038831fe00f5efbc110ff0131aab899b",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@types/swagger-schema-official/index.d.ts": {
+        "version": "335b4fded4c23b45987f63f0d25cce1c12b166d1af557bed65c97e9e24b10836",
+        "signature": "335b4fded4c23b45987f63f0d25cce1c12b166d1af557bed65c97e9e24b10836",
+        "affectsGlobalScope": false
+      }
+    },
+    "options": {
+      "incremental": true,
+      "target": 6,
+      "module": 1,
+      "sourceMap": true,
+      "strict": true,
+      "noImplicitAny": true,
+      "moduleResolution": 2,
+      "resolveJsonModule": true,
+      "baseUrl": "../src",
+      "outDir": "./",
+      "forceConsistentCasingInFileNames": true,
+      "configFilePath": "../tsconfig.json"
+    },
+    "referencedMap": {
+      "../node_modules/@types/node/base.d.ts": [
+        "../node_modules/@types/node/assert.d.ts",
+        "../node_modules/@types/node/ts3.6/base.d.ts"
+      ],
+      "../node_modules/@types/node/child_process.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/net.d.ts",
+        "../node_modules/@types/node/stream.d.ts"
+      ],
+      "../node_modules/@types/node/cluster.d.ts": [
+        "../node_modules/@types/node/child_process.d.ts",
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/net.d.ts"
+      ],
+      "../node_modules/@types/node/console.d.ts": [
+        "../node_modules/@types/node/util.d.ts"
+      ],
+      "../node_modules/@types/node/constants.d.ts": [
+        "../node_modules/@types/node/crypto.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/os.d.ts"
+      ],
+      "../node_modules/@types/node/crypto.d.ts": [
+        "../node_modules/@types/node/stream.d.ts"
+      ],
+      "../node_modules/@types/node/dgram.d.ts": [
+        "../node_modules/@types/node/dns.d.ts",
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/net.d.ts"
+      ],
+      "../node_modules/@types/node/domain.d.ts": [
+        "../node_modules/@types/node/events.d.ts"
+      ],
+      "../node_modules/@types/node/events.d.ts": [
+        "../node_modules/@types/node/events.d.ts"
+      ],
+      "../node_modules/@types/node/fs.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/fs/promises.d.ts",
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/url.d.ts"
+      ],
+      "../node_modules/@types/node/fs/promises.d.ts": [
+        "../node_modules/@types/node/fs.d.ts"
+      ],
+      "../node_modules/@types/node/http.d.ts": [
+        "../node_modules/@types/node/net.d.ts",
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/url.d.ts"
+      ],
+      "../node_modules/@types/node/http2.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/net.d.ts",
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/tls.d.ts",
+        "../node_modules/@types/node/url.d.ts"
+      ],
+      "../node_modules/@types/node/https.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/tls.d.ts",
+        "../node_modules/@types/node/url.d.ts"
+      ],
+      "../node_modules/@types/node/index.d.ts": [
+        "../node_modules/@types/node/base.d.ts"
+      ],
+      "../node_modules/@types/node/inspector.d.ts": [
+        "../node_modules/@types/node/events.d.ts"
+      ],
+      "../node_modules/@types/node/module.d.ts": [
+        "../node_modules/@types/node/url.d.ts"
+      ],
+      "../node_modules/@types/node/net.d.ts": [
+        "../node_modules/@types/node/dns.d.ts",
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/stream.d.ts"
+      ],
+      "../node_modules/@types/node/perf_hooks.d.ts": [
+        "../node_modules/@types/node/async_hooks.d.ts"
+      ],
+      "../node_modules/@types/node/process.d.ts": [
+        "../node_modules/@types/node/tty.d.ts"
+      ],
+      "../node_modules/@types/node/readline.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/stream.d.ts"
+      ],
+      "../node_modules/@types/node/repl.d.ts": [
+        "../node_modules/@types/node/readline.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/vm.d.ts"
+      ],
+      "../node_modules/@types/node/stream.d.ts": [
+        "../node_modules/@types/node/events.d.ts"
+      ],
+      "../node_modules/@types/node/tls.d.ts": [
+        "../node_modules/@types/node/crypto.d.ts",
+        "../node_modules/@types/node/dns.d.ts",
+        "../node_modules/@types/node/net.d.ts",
+        "../node_modules/@types/node/stream.d.ts"
+      ],
+      "../node_modules/@types/node/ts3.4/base.d.ts": [
+        "../node_modules/@types/node/async_hooks.d.ts",
+        "../node_modules/@types/node/buffer.d.ts",
+        "../node_modules/@types/node/child_process.d.ts",
+        "../node_modules/@types/node/cluster.d.ts",
+        "../node_modules/@types/node/console.d.ts",
+        "../node_modules/@types/node/constants.d.ts",
+        "../node_modules/@types/node/crypto.d.ts",
+        "../node_modules/@types/node/dgram.d.ts",
+        "../node_modules/@types/node/dns.d.ts",
+        "../node_modules/@types/node/domain.d.ts",
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/fs/promises.d.ts",
+        "../node_modules/@types/node/globals.d.ts",
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/http2.d.ts",
+        "../node_modules/@types/node/https.d.ts",
+        "../node_modules/@types/node/inspector.d.ts",
+        "../node_modules/@types/node/module.d.ts",
+        "../node_modules/@types/node/net.d.ts",
+        "../node_modules/@types/node/os.d.ts",
+        "../node_modules/@types/node/path.d.ts",
+        "../node_modules/@types/node/perf_hooks.d.ts",
+        "../node_modules/@types/node/process.d.ts",
+        "../node_modules/@types/node/punycode.d.ts",
+        "../node_modules/@types/node/querystring.d.ts",
+        "../node_modules/@types/node/readline.d.ts",
+        "../node_modules/@types/node/repl.d.ts",
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/string_decoder.d.ts",
+        "../node_modules/@types/node/timers.d.ts",
+        "../node_modules/@types/node/tls.d.ts",
+        "../node_modules/@types/node/trace_events.d.ts",
+        "../node_modules/@types/node/tty.d.ts",
+        "../node_modules/@types/node/url.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/v8.d.ts",
+        "../node_modules/@types/node/vm.d.ts",
+        "../node_modules/@types/node/worker_threads.d.ts",
+        "../node_modules/@types/node/zlib.d.ts"
+      ],
+      "../node_modules/@types/node/ts3.6/base.d.ts": [
+        "../node_modules/@types/node/globals.global.d.ts",
+        "../node_modules/@types/node/ts3.4/base.d.ts",
+        "../node_modules/@types/node/wasi.d.ts"
+      ],
+      "../node_modules/@types/node/tty.d.ts": [
+        "../node_modules/@types/node/net.d.ts"
+      ],
+      "../node_modules/@types/node/url.d.ts": [
+        "../node_modules/@types/node/querystring.d.ts"
+      ],
+      "../node_modules/@types/node/v8.d.ts": [
+        "../node_modules/@types/node/stream.d.ts"
+      ],
+      "../node_modules/@types/node/worker_threads.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/fs/promises.d.ts",
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/url.d.ts",
+        "../node_modules/@types/node/vm.d.ts"
+      ],
+      "../node_modules/@types/node/zlib.d.ts": [
+        "../node_modules/@types/node/stream.d.ts"
+      ],
+      "../node_modules/fastify/fastify.d.ts": [
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/http2.d.ts",
+        "../node_modules/@types/node/https.d.ts",
+        "../node_modules/ajv/lib/ajv.d.ts",
+        "../node_modules/fastify-error/index.d.ts",
+        "../node_modules/fastify/types/content-type-parser.d.ts",
+        "../node_modules/fastify/types/context.d.ts",
+        "../node_modules/fastify/types/hooks.d.ts",
+        "../node_modules/fastify/types/instance.d.ts",
+        "../node_modules/fastify/types/logger.d.ts",
+        "../node_modules/fastify/types/plugin.d.ts",
+        "../node_modules/fastify/types/register.d.ts",
+        "../node_modules/fastify/types/reply.d.ts",
+        "../node_modules/fastify/types/request.d.ts",
+        "../node_modules/fastify/types/route.d.ts",
+        "../node_modules/fastify/types/schema.d.ts",
+        "../node_modules/fastify/types/serverfactory.d.ts",
+        "../node_modules/fastify/types/utils.d.ts",
+        "../node_modules/light-my-request/index.d.ts"
+      ],
+      "../node_modules/fastify/types/content-type-parser.d.ts": [
+        "../node_modules/fastify/types/request.d.ts",
+        "../node_modules/fastify/types/route.d.ts",
+        "../node_modules/fastify/types/utils.d.ts"
+      ],
+      "../node_modules/fastify/types/context.d.ts": [
+        "../node_modules/fastify/types/utils.d.ts"
+      ],
+      "../node_modules/fastify/types/hooks.d.ts": [
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/fastify-error/index.d.ts",
+        "../node_modules/fastify/types/instance.d.ts",
+        "../node_modules/fastify/types/logger.d.ts",
+        "../node_modules/fastify/types/reply.d.ts",
+        "../node_modules/fastify/types/request.d.ts",
+        "../node_modules/fastify/types/route.d.ts",
+        "../node_modules/fastify/types/utils.d.ts"
+      ],
+      "../node_modules/fastify/types/instance.d.ts": [
+        "../node_modules/fastify-error/index.d.ts",
+        "../node_modules/fastify/types/content-type-parser.d.ts",
+        "../node_modules/fastify/types/hooks.d.ts",
+        "../node_modules/fastify/types/logger.d.ts",
+        "../node_modules/fastify/types/register.d.ts",
+        "../node_modules/fastify/types/reply.d.ts",
+        "../node_modules/fastify/types/request.d.ts",
+        "../node_modules/fastify/types/route.d.ts",
+        "../node_modules/fastify/types/schema.d.ts",
+        "../node_modules/fastify/types/utils.d.ts",
+        "../node_modules/light-my-request/index.d.ts"
+      ],
+      "../node_modules/fastify/types/logger.d.ts": [
+        "../node_modules/fastify-error/index.d.ts",
+        "../node_modules/fastify/types/request.d.ts",
+        "../node_modules/fastify/types/utils.d.ts"
+      ],
+      "../node_modules/fastify/types/plugin.d.ts": [
+        "../node_modules/fastify/types/instance.d.ts",
+        "../node_modules/fastify/types/utils.d.ts"
+      ],
+      "../node_modules/fastify/types/register.d.ts": [
+        "../node_modules/fastify/types/logger.d.ts",
+        "../node_modules/fastify/types/plugin.d.ts"
+      ],
+      "../node_modules/fastify/types/reply.d.ts": [
+        "../node_modules/fastify/types/context.d.ts",
+        "../node_modules/fastify/types/logger.d.ts",
+        "../node_modules/fastify/types/request.d.ts",
+        "../node_modules/fastify/types/route.d.ts",
+        "../node_modules/fastify/types/utils.d.ts"
+      ],
+      "../node_modules/fastify/types/request.d.ts": [
+        "../node_modules/fastify/types/logger.d.ts",
+        "../node_modules/fastify/types/route.d.ts",
+        "../node_modules/fastify/types/utils.d.ts"
+      ],
+      "../node_modules/fastify/types/route.d.ts": [
+        "../node_modules/fastify-error/index.d.ts",
+        "../node_modules/fastify/types/hooks.d.ts",
+        "../node_modules/fastify/types/instance.d.ts",
+        "../node_modules/fastify/types/logger.d.ts",
+        "../node_modules/fastify/types/reply.d.ts",
+        "../node_modules/fastify/types/request.d.ts",
+        "../node_modules/fastify/types/schema.d.ts",
+        "../node_modules/fastify/types/utils.d.ts"
+      ],
+      "../node_modules/fastify/types/serverfactory.d.ts": [
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/http2.d.ts",
+        "../node_modules/@types/node/https.d.ts",
+        "../node_modules/fastify/types/utils.d.ts"
+      ],
+      "../node_modules/fastify/types/utils.d.ts": [
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/http2.d.ts",
+        "../node_modules/@types/node/https.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/alt.d.ts": [
+        "../node_modules/fp-ts/hkt.d.ts",
+        "../node_modules/fp-ts/lib/function.d.ts",
+        "../node_modules/fp-ts/lib/functor.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/alternative.d.ts": [
+        "../node_modules/fp-ts/hkt.d.ts",
+        "../node_modules/fp-ts/lib/alt.d.ts",
+        "../node_modules/fp-ts/lib/applicative.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/applicative.d.ts": [
+        "../node_modules/fp-ts/hkt.d.ts",
+        "../node_modules/fp-ts/lib/apply.d.ts",
+        "../node_modules/fp-ts/lib/functor.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/apply.d.ts": [
+        "../node_modules/fp-ts/hkt.d.ts",
+        "../node_modules/fp-ts/lib/functor.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/bifunctor.d.ts": [
+        "../node_modules/fp-ts/hkt.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/bounded.d.ts": [
+        "../node_modules/fp-ts/lib/ord.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/boundeddistributivelattice.d.ts": [
+        "../node_modules/fp-ts/lib/boundedlattice.d.ts",
+        "../node_modules/fp-ts/lib/distributivelattice.d.ts",
+        "../node_modules/fp-ts/lib/ord.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/boundedjoinsemilattice.d.ts": [
+        "../node_modules/fp-ts/lib/joinsemilattice.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/boundedlattice.d.ts": [
+        "../node_modules/fp-ts/lib/boundedjoinsemilattice.d.ts",
+        "../node_modules/fp-ts/lib/boundedmeetsemilattice.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/boundedmeetsemilattice.d.ts": [
+        "../node_modules/fp-ts/lib/meetsemilattice.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/chain.d.ts": [
+        "../node_modules/fp-ts/hkt.d.ts",
+        "../node_modules/fp-ts/lib/apply.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/chainrec.d.ts": [
+        "../node_modules/fp-ts/hkt.d.ts",
+        "../node_modules/fp-ts/lib/chain.d.ts",
+        "../node_modules/fp-ts/lib/either.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/compactable.d.ts": [
+        "../node_modules/fp-ts/hkt.d.ts",
+        "../node_modules/fp-ts/lib/either.d.ts",
+        "../node_modules/fp-ts/lib/functor.d.ts",
+        "../node_modules/fp-ts/lib/option.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/contravariant.d.ts": [
+        "../node_modules/fp-ts/hkt.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/distributivelattice.d.ts": [
+        "../node_modules/fp-ts/lib/lattice.d.ts",
+        "../node_modules/fp-ts/lib/ord.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/either.d.ts": [
+        "../node_modules/fp-ts/hkt.d.ts",
+        "../node_modules/fp-ts/lib/alt.d.ts",
+        "../node_modules/fp-ts/lib/applicative.d.ts",
+        "../node_modules/fp-ts/lib/bifunctor.d.ts",
+        "../node_modules/fp-ts/lib/chainrec.d.ts",
+        "../node_modules/fp-ts/lib/eq.d.ts",
+        "../node_modules/fp-ts/lib/extend.d.ts",
+        "../node_modules/fp-ts/lib/filterable.d.ts",
+        "../node_modules/fp-ts/lib/foldable.d.ts",
+        "../node_modules/fp-ts/lib/function.d.ts",
+        "../node_modules/fp-ts/lib/functor.d.ts",
+        "../node_modules/fp-ts/lib/monad.d.ts",
+        "../node_modules/fp-ts/lib/monadthrow.d.ts",
+        "../node_modules/fp-ts/lib/monoid.d.ts",
+        "../node_modules/fp-ts/lib/option.d.ts",
+        "../node_modules/fp-ts/lib/ord.d.ts",
+        "../node_modules/fp-ts/lib/readonlyrecord.d.ts",
+        "../node_modules/fp-ts/lib/semigroup.d.ts",
+        "../node_modules/fp-ts/lib/show.d.ts",
+        "../node_modules/fp-ts/lib/traversable.d.ts",
+        "../node_modules/fp-ts/lib/witherable.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/eq.d.ts": [
+        "../node_modules/fp-ts/hkt.d.ts",
+        "../node_modules/fp-ts/lib/contravariant.d.ts",
+        "../node_modules/fp-ts/lib/either.d.ts",
+        "../node_modules/fp-ts/lib/monoid.d.ts",
+        "../node_modules/fp-ts/lib/option.d.ts",
+        "../node_modules/fp-ts/lib/ord.d.ts",
+        "../node_modules/fp-ts/lib/readonlyrecord.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/extend.d.ts": [
+        "../node_modules/fp-ts/hkt.d.ts",
+        "../node_modules/fp-ts/lib/functor.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/filterable.d.ts": [
+        "../node_modules/fp-ts/hkt.d.ts",
+        "../node_modules/fp-ts/lib/compactable.d.ts",
+        "../node_modules/fp-ts/lib/either.d.ts",
+        "../node_modules/fp-ts/lib/function.d.ts",
+        "../node_modules/fp-ts/lib/functor.d.ts",
+        "../node_modules/fp-ts/lib/option.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/filterablewithindex.d.ts": [
+        "../node_modules/fp-ts/hkt.d.ts",
+        "../node_modules/fp-ts/lib/compactable.d.ts",
+        "../node_modules/fp-ts/lib/either.d.ts",
+        "../node_modules/fp-ts/lib/filterable.d.ts",
+        "../node_modules/fp-ts/lib/functorwithindex.d.ts",
+        "../node_modules/fp-ts/lib/option.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/foldable.d.ts": [
+        "../node_modules/fp-ts/hkt.d.ts",
+        "../node_modules/fp-ts/lib/applicative.d.ts",
+        "../node_modules/fp-ts/lib/monad.d.ts",
+        "../node_modules/fp-ts/lib/monoid.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/foldablewithindex.d.ts": [
+        "../node_modules/fp-ts/hkt.d.ts",
+        "../node_modules/fp-ts/lib/foldable.d.ts",
+        "../node_modules/fp-ts/lib/monoid.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/functor.d.ts": [
+        "../node_modules/fp-ts/hkt.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/functorwithindex.d.ts": [
+        "../node_modules/fp-ts/hkt.d.ts",
+        "../node_modules/fp-ts/lib/functor.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/lattice.d.ts": [
+        "../node_modules/fp-ts/lib/joinsemilattice.d.ts",
+        "../node_modules/fp-ts/lib/meetsemilattice.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/monad.d.ts": [
+        "../node_modules/fp-ts/hkt.d.ts",
+        "../node_modules/fp-ts/lib/applicative.d.ts",
+        "../node_modules/fp-ts/lib/chain.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/monadthrow.d.ts": [
+        "../node_modules/fp-ts/hkt.d.ts",
+        "../node_modules/fp-ts/lib/monad.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/monoid.d.ts": [
+        "../node_modules/fp-ts/lib/bounded.d.ts",
+        "../node_modules/fp-ts/lib/function.d.ts",
+        "../node_modules/fp-ts/lib/readonlyrecord.d.ts",
+        "../node_modules/fp-ts/lib/semigroup.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/option.d.ts": [
+        "../node_modules/fp-ts/hkt.d.ts",
+        "../node_modules/fp-ts/lib/alt.d.ts",
+        "../node_modules/fp-ts/lib/alternative.d.ts",
+        "../node_modules/fp-ts/lib/applicative.d.ts",
+        "../node_modules/fp-ts/lib/compactable.d.ts",
+        "../node_modules/fp-ts/lib/either.d.ts",
+        "../node_modules/fp-ts/lib/eq.d.ts",
+        "../node_modules/fp-ts/lib/extend.d.ts",
+        "../node_modules/fp-ts/lib/filterable.d.ts",
+        "../node_modules/fp-ts/lib/foldable.d.ts",
+        "../node_modules/fp-ts/lib/function.d.ts",
+        "../node_modules/fp-ts/lib/functor.d.ts",
+        "../node_modules/fp-ts/lib/monad.d.ts",
+        "../node_modules/fp-ts/lib/monadthrow.d.ts",
+        "../node_modules/fp-ts/lib/monoid.d.ts",
+        "../node_modules/fp-ts/lib/ord.d.ts",
+        "../node_modules/fp-ts/lib/readonlyrecord.d.ts",
+        "../node_modules/fp-ts/lib/semigroup.d.ts",
+        "../node_modules/fp-ts/lib/show.d.ts",
+        "../node_modules/fp-ts/lib/traversable.d.ts",
+        "../node_modules/fp-ts/lib/witherable.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/ord.d.ts": [
+        "../node_modules/fp-ts/hkt.d.ts",
+        "../node_modules/fp-ts/lib/contravariant.d.ts",
+        "../node_modules/fp-ts/lib/either.d.ts",
+        "../node_modules/fp-ts/lib/eq.d.ts",
+        "../node_modules/fp-ts/lib/monoid.d.ts",
+        "../node_modules/fp-ts/lib/option.d.ts",
+        "../node_modules/fp-ts/lib/ordering.d.ts",
+        "../node_modules/fp-ts/lib/readonlyrecord.d.ts",
+        "../node_modules/fp-ts/lib/semigroup.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/ordering.d.ts": [
+        "../node_modules/fp-ts/lib/eq.d.ts",
+        "../node_modules/fp-ts/lib/monoid.d.ts",
+        "../node_modules/fp-ts/lib/semigroup.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/readonlyrecord.d.ts": [
+        "../node_modules/fp-ts/hkt.d.ts",
+        "../node_modules/fp-ts/lib/applicative.d.ts",
+        "../node_modules/fp-ts/lib/compactable.d.ts",
+        "../node_modules/fp-ts/lib/either.d.ts",
+        "../node_modules/fp-ts/lib/eq.d.ts",
+        "../node_modules/fp-ts/lib/filterable.d.ts",
+        "../node_modules/fp-ts/lib/filterablewithindex.d.ts",
+        "../node_modules/fp-ts/lib/foldable.d.ts",
+        "../node_modules/fp-ts/lib/foldablewithindex.d.ts",
+        "../node_modules/fp-ts/lib/function.d.ts",
+        "../node_modules/fp-ts/lib/functor.d.ts",
+        "../node_modules/fp-ts/lib/functorwithindex.d.ts",
+        "../node_modules/fp-ts/lib/magma.d.ts",
+        "../node_modules/fp-ts/lib/monoid.d.ts",
+        "../node_modules/fp-ts/lib/option.d.ts",
+        "../node_modules/fp-ts/lib/ord.d.ts",
+        "../node_modules/fp-ts/lib/semigroup.d.ts",
+        "../node_modules/fp-ts/lib/show.d.ts",
+        "../node_modules/fp-ts/lib/traversable.d.ts",
+        "../node_modules/fp-ts/lib/traversablewithindex.d.ts",
+        "../node_modules/fp-ts/lib/unfoldable.d.ts",
+        "../node_modules/fp-ts/lib/witherable.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/semigroup.d.ts": [
+        "../node_modules/fp-ts/lib/magma.d.ts",
+        "../node_modules/fp-ts/lib/ord.d.ts",
+        "../node_modules/fp-ts/lib/readonlyrecord.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/show.d.ts": [
+        "../node_modules/fp-ts/lib/readonlyrecord.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/traversable.d.ts": [
+        "../node_modules/fp-ts/hkt.d.ts",
+        "../node_modules/fp-ts/lib/applicative.d.ts",
+        "../node_modules/fp-ts/lib/foldable.d.ts",
+        "../node_modules/fp-ts/lib/functor.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/traversablewithindex.d.ts": [
+        "../node_modules/fp-ts/hkt.d.ts",
+        "../node_modules/fp-ts/lib/applicative.d.ts",
+        "../node_modules/fp-ts/lib/foldablewithindex.d.ts",
+        "../node_modules/fp-ts/lib/functorwithindex.d.ts",
+        "../node_modules/fp-ts/lib/traversable.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/unfoldable.d.ts": [
+        "../node_modules/fp-ts/hkt.d.ts",
+        "../node_modules/fp-ts/lib/option.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/witherable.d.ts": [
+        "../node_modules/fp-ts/hkt.d.ts",
+        "../node_modules/fp-ts/lib/applicative.d.ts",
+        "../node_modules/fp-ts/lib/compactable.d.ts",
+        "../node_modules/fp-ts/lib/either.d.ts",
+        "../node_modules/fp-ts/lib/filterable.d.ts",
+        "../node_modules/fp-ts/lib/option.d.ts",
+        "../node_modules/fp-ts/lib/traversable.d.ts"
+      ],
+      "../node_modules/io-ts/lib/index.d.ts": [
+        "../node_modules/fp-ts/lib/either.d.ts",
+        "../node_modules/fp-ts/lib/function.d.ts"
+      ],
+      "../node_modules/knex/types/index.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/tls.d.ts",
+        "../node_modules/knex/types/result.d.ts",
+        "../node_modules/knex/types/tables.d.ts",
+        "../node_modules/tarn/dist/tarn.d.ts"
+      ],
+      "../node_modules/light-my-request/index.d.ts": [
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/stream.d.ts"
+      ],
+      "../node_modules/tarn/dist/pendingoperation.d.ts": [
+        "../node_modules/tarn/dist/utils.d.ts"
+      ],
+      "../node_modules/tarn/dist/pool.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/index.d.ts",
+        "../node_modules/tarn/dist/pendingoperation.d.ts",
+        "../node_modules/tarn/dist/promiseinspection.d.ts",
+        "../node_modules/tarn/dist/resource.d.ts"
+      ],
+      "../node_modules/tarn/dist/resource.d.ts": [
+        "../node_modules/tarn/dist/utils.d.ts"
+      ],
+      "../node_modules/tarn/dist/tarn.d.ts": [
+        "../node_modules/tarn/dist/pool.d.ts",
+        "../node_modules/tarn/dist/timeouterror.d.ts"
+      ],
+      "../node_modules/tarn/dist/utils.d.ts": [
+        "../node_modules/tarn/dist/promiseinspection.d.ts"
+      ],
+      "../src/controllers/pokemon.controllers.ts": [
+        "../node_modules/knex/types/index.d.ts",
+        "../src/generated/contracts/readpokemonscontract.ts",
+        "../src/persistence/pokemonrepository.ts"
+      ],
+      "../src/generated/contracts/readpokemonscontract.ts": [
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/fastify/types/route.d.ts",
+        "../node_modules/fastify/types/utils.d.ts",
+        "../node_modules/io-ts/lib/index.d.ts"
+      ],
+      "../src/generated/contracts/registerfastify.ts": [
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/fastify/types/instance.d.ts",
+        "../node_modules/fastify/types/utils.d.ts",
+        "../src/generated/contracts/readpokemonscontract.ts",
+        "../src/generated/types/pokemon.ts",
+        "../src/generated/types/pokemons.ts"
+      ],
+      "../src/generated/types/pokemon.ts": [
+        "../node_modules/io-ts/lib/index.d.ts"
+      ],
+      "../src/generated/types/pokemons.ts": [
+        "../node_modules/io-ts/lib/index.d.ts",
+        "../src/generated/types/pokemon.ts"
+      ],
+      "../src/index.ts": [
+        "../node_modules/fastify/fastify.d.ts",
+        "../src/controllers/pokemon.controllers.ts",
+        "../src/generated/contracts/registerfastify.ts",
+        "../src/migrations/init_db.ts",
+        "../src/persistence/pokemonrepository.ts"
+      ],
+      "../src/migrations/init_db.ts": [
+        "../node_modules/knex/types/index.d.ts",
+        "../src/persistence/pokemonschema.ts",
+        "../src/services/fil.db.ts"
+      ],
+      "../src/persistence/pokemonrepository.ts": [
+        "../node_modules/knex/types/index.d.ts",
+        "../src/persistence/pokemon.ts",
+        "../src/persistence/pokemonschema.ts"
+      ],
+      "../src/services/fil.db.ts": [
+        "../node_modules/fastify/fastify.d.ts",
+        "../node_modules/fp-ts/lib/boundeddistributivelattice.d.ts",
+        "../src/persistence/pokemonschema.ts"
+      ]
+    },
+    "exportedModulesMap": {
+      "../node_modules/@types/node/base.d.ts": [
+        "../node_modules/@types/node/assert.d.ts",
+        "../node_modules/@types/node/ts3.6/base.d.ts"
+      ],
+      "../node_modules/@types/node/child_process.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/net.d.ts",
+        "../node_modules/@types/node/stream.d.ts"
+      ],
+      "../node_modules/@types/node/cluster.d.ts": [
+        "../node_modules/@types/node/child_process.d.ts",
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/net.d.ts"
+      ],
+      "../node_modules/@types/node/console.d.ts": [
+        "../node_modules/@types/node/util.d.ts"
+      ],
+      "../node_modules/@types/node/constants.d.ts": [
+        "../node_modules/@types/node/crypto.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/os.d.ts"
+      ],
+      "../node_modules/@types/node/crypto.d.ts": [
+        "../node_modules/@types/node/stream.d.ts"
+      ],
+      "../node_modules/@types/node/dgram.d.ts": [
+        "../node_modules/@types/node/dns.d.ts",
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/net.d.ts"
+      ],
+      "../node_modules/@types/node/domain.d.ts": [
+        "../node_modules/@types/node/events.d.ts"
+      ],
+      "../node_modules/@types/node/events.d.ts": [
+        "../node_modules/@types/node/events.d.ts"
+      ],
+      "../node_modules/@types/node/fs.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/fs/promises.d.ts",
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/url.d.ts"
+      ],
+      "../node_modules/@types/node/fs/promises.d.ts": [
+        "../node_modules/@types/node/fs.d.ts"
+      ],
+      "../node_modules/@types/node/http.d.ts": [
+        "../node_modules/@types/node/net.d.ts",
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/url.d.ts"
+      ],
+      "../node_modules/@types/node/http2.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/net.d.ts",
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/tls.d.ts",
+        "../node_modules/@types/node/url.d.ts"
+      ],
+      "../node_modules/@types/node/https.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/tls.d.ts",
+        "../node_modules/@types/node/url.d.ts"
+      ],
+      "../node_modules/@types/node/index.d.ts": [
+        "../node_modules/@types/node/base.d.ts"
+      ],
+      "../node_modules/@types/node/inspector.d.ts": [
+        "../node_modules/@types/node/events.d.ts"
+      ],
+      "../node_modules/@types/node/module.d.ts": [
+        "../node_modules/@types/node/url.d.ts"
+      ],
+      "../node_modules/@types/node/net.d.ts": [
+        "../node_modules/@types/node/dns.d.ts",
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/stream.d.ts"
+      ],
+      "../node_modules/@types/node/perf_hooks.d.ts": [
+        "../node_modules/@types/node/async_hooks.d.ts"
+      ],
+      "../node_modules/@types/node/process.d.ts": [
+        "../node_modules/@types/node/tty.d.ts"
+      ],
+      "../node_modules/@types/node/readline.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/stream.d.ts"
+      ],
+      "../node_modules/@types/node/repl.d.ts": [
+        "../node_modules/@types/node/readline.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/vm.d.ts"
+      ],
+      "../node_modules/@types/node/stream.d.ts": [
+        "../node_modules/@types/node/events.d.ts"
+      ],
+      "../node_modules/@types/node/tls.d.ts": [
+        "../node_modules/@types/node/crypto.d.ts",
+        "../node_modules/@types/node/dns.d.ts",
+        "../node_modules/@types/node/net.d.ts",
+        "../node_modules/@types/node/stream.d.ts"
+      ],
+      "../node_modules/@types/node/ts3.4/base.d.ts": [
+        "../node_modules/@types/node/async_hooks.d.ts",
+        "../node_modules/@types/node/buffer.d.ts",
+        "../node_modules/@types/node/child_process.d.ts",
+        "../node_modules/@types/node/cluster.d.ts",
+        "../node_modules/@types/node/console.d.ts",
+        "../node_modules/@types/node/constants.d.ts",
+        "../node_modules/@types/node/crypto.d.ts",
+        "../node_modules/@types/node/dgram.d.ts",
+        "../node_modules/@types/node/dns.d.ts",
+        "../node_modules/@types/node/domain.d.ts",
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/fs/promises.d.ts",
+        "../node_modules/@types/node/globals.d.ts",
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/http2.d.ts",
+        "../node_modules/@types/node/https.d.ts",
+        "../node_modules/@types/node/inspector.d.ts",
+        "../node_modules/@types/node/module.d.ts",
+        "../node_modules/@types/node/net.d.ts",
+        "../node_modules/@types/node/os.d.ts",
+        "../node_modules/@types/node/path.d.ts",
+        "../node_modules/@types/node/perf_hooks.d.ts",
+        "../node_modules/@types/node/process.d.ts",
+        "../node_modules/@types/node/punycode.d.ts",
+        "../node_modules/@types/node/querystring.d.ts",
+        "../node_modules/@types/node/readline.d.ts",
+        "../node_modules/@types/node/repl.d.ts",
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/string_decoder.d.ts",
+        "../node_modules/@types/node/timers.d.ts",
+        "../node_modules/@types/node/tls.d.ts",
+        "../node_modules/@types/node/trace_events.d.ts",
+        "../node_modules/@types/node/tty.d.ts",
+        "../node_modules/@types/node/url.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/v8.d.ts",
+        "../node_modules/@types/node/vm.d.ts",
+        "../node_modules/@types/node/worker_threads.d.ts",
+        "../node_modules/@types/node/zlib.d.ts"
+      ],
+      "../node_modules/@types/node/ts3.6/base.d.ts": [
+        "../node_modules/@types/node/globals.global.d.ts",
+        "../node_modules/@types/node/ts3.4/base.d.ts",
+        "../node_modules/@types/node/wasi.d.ts"
+      ],
+      "../node_modules/@types/node/tty.d.ts": [
+        "../node_modules/@types/node/net.d.ts"
+      ],
+      "../node_modules/@types/node/url.d.ts": [
+        "../node_modules/@types/node/querystring.d.ts"
+      ],
+      "../node_modules/@types/node/v8.d.ts": [
+        "../node_modules/@types/node/stream.d.ts"
+      ],
+      "../node_modules/@types/node/worker_threads.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/fs/promises.d.ts",
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/url.d.ts",
+        "../node_modules/@types/node/vm.d.ts"
+      ],
+      "../node_modules/@types/node/zlib.d.ts": [
+        "../node_modules/@types/node/stream.d.ts"
+      ],
+      "../node_modules/fastify/fastify.d.ts": [
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/http2.d.ts",
+        "../node_modules/@types/node/https.d.ts",
+        "../node_modules/ajv/lib/ajv.d.ts",
+        "../node_modules/fastify-error/index.d.ts",
+        "../node_modules/fastify/types/content-type-parser.d.ts",
+        "../node_modules/fastify/types/context.d.ts",
+        "../node_modules/fastify/types/hooks.d.ts",
+        "../node_modules/fastify/types/instance.d.ts",
+        "../node_modules/fastify/types/logger.d.ts",
+        "../node_modules/fastify/types/plugin.d.ts",
+        "../node_modules/fastify/types/register.d.ts",
+        "../node_modules/fastify/types/reply.d.ts",
+        "../node_modules/fastify/types/request.d.ts",
+        "../node_modules/fastify/types/route.d.ts",
+        "../node_modules/fastify/types/schema.d.ts",
+        "../node_modules/fastify/types/serverfactory.d.ts",
+        "../node_modules/fastify/types/utils.d.ts",
+        "../node_modules/light-my-request/index.d.ts"
+      ],
+      "../node_modules/fastify/types/content-type-parser.d.ts": [
+        "../node_modules/fastify/types/request.d.ts",
+        "../node_modules/fastify/types/route.d.ts",
+        "../node_modules/fastify/types/utils.d.ts"
+      ],
+      "../node_modules/fastify/types/context.d.ts": [
+        "../node_modules/fastify/types/utils.d.ts"
+      ],
+      "../node_modules/fastify/types/hooks.d.ts": [
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/fastify-error/index.d.ts",
+        "../node_modules/fastify/types/instance.d.ts",
+        "../node_modules/fastify/types/logger.d.ts",
+        "../node_modules/fastify/types/reply.d.ts",
+        "../node_modules/fastify/types/request.d.ts",
+        "../node_modules/fastify/types/route.d.ts",
+        "../node_modules/fastify/types/utils.d.ts"
+      ],
+      "../node_modules/fastify/types/instance.d.ts": [
+        "../node_modules/fastify-error/index.d.ts",
+        "../node_modules/fastify/types/content-type-parser.d.ts",
+        "../node_modules/fastify/types/hooks.d.ts",
+        "../node_modules/fastify/types/logger.d.ts",
+        "../node_modules/fastify/types/register.d.ts",
+        "../node_modules/fastify/types/reply.d.ts",
+        "../node_modules/fastify/types/request.d.ts",
+        "../node_modules/fastify/types/route.d.ts",
+        "../node_modules/fastify/types/schema.d.ts",
+        "../node_modules/fastify/types/utils.d.ts",
+        "../node_modules/light-my-request/index.d.ts"
+      ],
+      "../node_modules/fastify/types/logger.d.ts": [
+        "../node_modules/fastify-error/index.d.ts",
+        "../node_modules/fastify/types/request.d.ts",
+        "../node_modules/fastify/types/utils.d.ts"
+      ],
+      "../node_modules/fastify/types/plugin.d.ts": [
+        "../node_modules/fastify/types/instance.d.ts",
+        "../node_modules/fastify/types/utils.d.ts"
+      ],
+      "../node_modules/fastify/types/register.d.ts": [
+        "../node_modules/fastify/types/logger.d.ts",
+        "../node_modules/fastify/types/plugin.d.ts"
+      ],
+      "../node_modules/fastify/types/reply.d.ts": [
+        "../node_modules/fastify/types/context.d.ts",
+        "../node_modules/fastify/types/logger.d.ts",
+        "../node_modules/fastify/types/request.d.ts",
+        "../node_modules/fastify/types/route.d.ts",
+        "../node_modules/fastify/types/utils.d.ts"
+      ],
+      "../node_modules/fastify/types/request.d.ts": [
+        "../node_modules/fastify/types/logger.d.ts",
+        "../node_modules/fastify/types/route.d.ts",
+        "../node_modules/fastify/types/utils.d.ts"
+      ],
+      "../node_modules/fastify/types/route.d.ts": [
+        "../node_modules/fastify-error/index.d.ts",
+        "../node_modules/fastify/types/hooks.d.ts",
+        "../node_modules/fastify/types/instance.d.ts",
+        "../node_modules/fastify/types/logger.d.ts",
+        "../node_modules/fastify/types/reply.d.ts",
+        "../node_modules/fastify/types/request.d.ts",
+        "../node_modules/fastify/types/schema.d.ts",
+        "../node_modules/fastify/types/utils.d.ts"
+      ],
+      "../node_modules/fastify/types/serverfactory.d.ts": [
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/http2.d.ts",
+        "../node_modules/@types/node/https.d.ts",
+        "../node_modules/fastify/types/utils.d.ts"
+      ],
+      "../node_modules/fastify/types/utils.d.ts": [
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/http2.d.ts",
+        "../node_modules/@types/node/https.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/alt.d.ts": [
+        "../node_modules/fp-ts/hkt.d.ts",
+        "../node_modules/fp-ts/lib/function.d.ts",
+        "../node_modules/fp-ts/lib/functor.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/alternative.d.ts": [
+        "../node_modules/fp-ts/hkt.d.ts",
+        "../node_modules/fp-ts/lib/alt.d.ts",
+        "../node_modules/fp-ts/lib/applicative.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/applicative.d.ts": [
+        "../node_modules/fp-ts/hkt.d.ts",
+        "../node_modules/fp-ts/lib/apply.d.ts",
+        "../node_modules/fp-ts/lib/functor.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/apply.d.ts": [
+        "../node_modules/fp-ts/hkt.d.ts",
+        "../node_modules/fp-ts/lib/functor.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/bifunctor.d.ts": [
+        "../node_modules/fp-ts/hkt.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/bounded.d.ts": [
+        "../node_modules/fp-ts/lib/ord.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/boundeddistributivelattice.d.ts": [
+        "../node_modules/fp-ts/lib/boundedlattice.d.ts",
+        "../node_modules/fp-ts/lib/distributivelattice.d.ts",
+        "../node_modules/fp-ts/lib/ord.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/boundedjoinsemilattice.d.ts": [
+        "../node_modules/fp-ts/lib/joinsemilattice.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/boundedlattice.d.ts": [
+        "../node_modules/fp-ts/lib/boundedjoinsemilattice.d.ts",
+        "../node_modules/fp-ts/lib/boundedmeetsemilattice.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/boundedmeetsemilattice.d.ts": [
+        "../node_modules/fp-ts/lib/meetsemilattice.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/chain.d.ts": [
+        "../node_modules/fp-ts/hkt.d.ts",
+        "../node_modules/fp-ts/lib/apply.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/chainrec.d.ts": [
+        "../node_modules/fp-ts/hkt.d.ts",
+        "../node_modules/fp-ts/lib/chain.d.ts",
+        "../node_modules/fp-ts/lib/either.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/compactable.d.ts": [
+        "../node_modules/fp-ts/hkt.d.ts",
+        "../node_modules/fp-ts/lib/either.d.ts",
+        "../node_modules/fp-ts/lib/functor.d.ts",
+        "../node_modules/fp-ts/lib/option.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/contravariant.d.ts": [
+        "../node_modules/fp-ts/hkt.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/distributivelattice.d.ts": [
+        "../node_modules/fp-ts/lib/lattice.d.ts",
+        "../node_modules/fp-ts/lib/ord.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/either.d.ts": [
+        "../node_modules/fp-ts/hkt.d.ts",
+        "../node_modules/fp-ts/lib/alt.d.ts",
+        "../node_modules/fp-ts/lib/applicative.d.ts",
+        "../node_modules/fp-ts/lib/bifunctor.d.ts",
+        "../node_modules/fp-ts/lib/chainrec.d.ts",
+        "../node_modules/fp-ts/lib/eq.d.ts",
+        "../node_modules/fp-ts/lib/extend.d.ts",
+        "../node_modules/fp-ts/lib/filterable.d.ts",
+        "../node_modules/fp-ts/lib/foldable.d.ts",
+        "../node_modules/fp-ts/lib/function.d.ts",
+        "../node_modules/fp-ts/lib/functor.d.ts",
+        "../node_modules/fp-ts/lib/monad.d.ts",
+        "../node_modules/fp-ts/lib/monadthrow.d.ts",
+        "../node_modules/fp-ts/lib/monoid.d.ts",
+        "../node_modules/fp-ts/lib/option.d.ts",
+        "../node_modules/fp-ts/lib/ord.d.ts",
+        "../node_modules/fp-ts/lib/readonlyrecord.d.ts",
+        "../node_modules/fp-ts/lib/semigroup.d.ts",
+        "../node_modules/fp-ts/lib/show.d.ts",
+        "../node_modules/fp-ts/lib/traversable.d.ts",
+        "../node_modules/fp-ts/lib/witherable.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/eq.d.ts": [
+        "../node_modules/fp-ts/hkt.d.ts",
+        "../node_modules/fp-ts/lib/contravariant.d.ts",
+        "../node_modules/fp-ts/lib/either.d.ts",
+        "../node_modules/fp-ts/lib/monoid.d.ts",
+        "../node_modules/fp-ts/lib/option.d.ts",
+        "../node_modules/fp-ts/lib/ord.d.ts",
+        "../node_modules/fp-ts/lib/readonlyrecord.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/extend.d.ts": [
+        "../node_modules/fp-ts/hkt.d.ts",
+        "../node_modules/fp-ts/lib/functor.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/filterable.d.ts": [
+        "../node_modules/fp-ts/hkt.d.ts",
+        "../node_modules/fp-ts/lib/compactable.d.ts",
+        "../node_modules/fp-ts/lib/either.d.ts",
+        "../node_modules/fp-ts/lib/function.d.ts",
+        "../node_modules/fp-ts/lib/functor.d.ts",
+        "../node_modules/fp-ts/lib/option.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/filterablewithindex.d.ts": [
+        "../node_modules/fp-ts/hkt.d.ts",
+        "../node_modules/fp-ts/lib/compactable.d.ts",
+        "../node_modules/fp-ts/lib/either.d.ts",
+        "../node_modules/fp-ts/lib/filterable.d.ts",
+        "../node_modules/fp-ts/lib/functorwithindex.d.ts",
+        "../node_modules/fp-ts/lib/option.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/foldable.d.ts": [
+        "../node_modules/fp-ts/hkt.d.ts",
+        "../node_modules/fp-ts/lib/applicative.d.ts",
+        "../node_modules/fp-ts/lib/monad.d.ts",
+        "../node_modules/fp-ts/lib/monoid.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/foldablewithindex.d.ts": [
+        "../node_modules/fp-ts/hkt.d.ts",
+        "../node_modules/fp-ts/lib/foldable.d.ts",
+        "../node_modules/fp-ts/lib/monoid.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/functor.d.ts": [
+        "../node_modules/fp-ts/hkt.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/functorwithindex.d.ts": [
+        "../node_modules/fp-ts/hkt.d.ts",
+        "../node_modules/fp-ts/lib/functor.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/lattice.d.ts": [
+        "../node_modules/fp-ts/lib/joinsemilattice.d.ts",
+        "../node_modules/fp-ts/lib/meetsemilattice.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/monad.d.ts": [
+        "../node_modules/fp-ts/hkt.d.ts",
+        "../node_modules/fp-ts/lib/applicative.d.ts",
+        "../node_modules/fp-ts/lib/chain.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/monadthrow.d.ts": [
+        "../node_modules/fp-ts/hkt.d.ts",
+        "../node_modules/fp-ts/lib/monad.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/monoid.d.ts": [
+        "../node_modules/fp-ts/lib/bounded.d.ts",
+        "../node_modules/fp-ts/lib/function.d.ts",
+        "../node_modules/fp-ts/lib/readonlyrecord.d.ts",
+        "../node_modules/fp-ts/lib/semigroup.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/option.d.ts": [
+        "../node_modules/fp-ts/hkt.d.ts",
+        "../node_modules/fp-ts/lib/alt.d.ts",
+        "../node_modules/fp-ts/lib/alternative.d.ts",
+        "../node_modules/fp-ts/lib/applicative.d.ts",
+        "../node_modules/fp-ts/lib/compactable.d.ts",
+        "../node_modules/fp-ts/lib/either.d.ts",
+        "../node_modules/fp-ts/lib/eq.d.ts",
+        "../node_modules/fp-ts/lib/extend.d.ts",
+        "../node_modules/fp-ts/lib/filterable.d.ts",
+        "../node_modules/fp-ts/lib/foldable.d.ts",
+        "../node_modules/fp-ts/lib/function.d.ts",
+        "../node_modules/fp-ts/lib/functor.d.ts",
+        "../node_modules/fp-ts/lib/monad.d.ts",
+        "../node_modules/fp-ts/lib/monadthrow.d.ts",
+        "../node_modules/fp-ts/lib/monoid.d.ts",
+        "../node_modules/fp-ts/lib/ord.d.ts",
+        "../node_modules/fp-ts/lib/readonlyrecord.d.ts",
+        "../node_modules/fp-ts/lib/semigroup.d.ts",
+        "../node_modules/fp-ts/lib/show.d.ts",
+        "../node_modules/fp-ts/lib/traversable.d.ts",
+        "../node_modules/fp-ts/lib/witherable.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/ord.d.ts": [
+        "../node_modules/fp-ts/hkt.d.ts",
+        "../node_modules/fp-ts/lib/contravariant.d.ts",
+        "../node_modules/fp-ts/lib/either.d.ts",
+        "../node_modules/fp-ts/lib/eq.d.ts",
+        "../node_modules/fp-ts/lib/monoid.d.ts",
+        "../node_modules/fp-ts/lib/option.d.ts",
+        "../node_modules/fp-ts/lib/ordering.d.ts",
+        "../node_modules/fp-ts/lib/readonlyrecord.d.ts",
+        "../node_modules/fp-ts/lib/semigroup.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/ordering.d.ts": [
+        "../node_modules/fp-ts/lib/eq.d.ts",
+        "../node_modules/fp-ts/lib/monoid.d.ts",
+        "../node_modules/fp-ts/lib/semigroup.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/readonlyrecord.d.ts": [
+        "../node_modules/fp-ts/hkt.d.ts",
+        "../node_modules/fp-ts/lib/applicative.d.ts",
+        "../node_modules/fp-ts/lib/compactable.d.ts",
+        "../node_modules/fp-ts/lib/either.d.ts",
+        "../node_modules/fp-ts/lib/eq.d.ts",
+        "../node_modules/fp-ts/lib/filterable.d.ts",
+        "../node_modules/fp-ts/lib/filterablewithindex.d.ts",
+        "../node_modules/fp-ts/lib/foldable.d.ts",
+        "../node_modules/fp-ts/lib/foldablewithindex.d.ts",
+        "../node_modules/fp-ts/lib/function.d.ts",
+        "../node_modules/fp-ts/lib/functor.d.ts",
+        "../node_modules/fp-ts/lib/functorwithindex.d.ts",
+        "../node_modules/fp-ts/lib/magma.d.ts",
+        "../node_modules/fp-ts/lib/monoid.d.ts",
+        "../node_modules/fp-ts/lib/option.d.ts",
+        "../node_modules/fp-ts/lib/ord.d.ts",
+        "../node_modules/fp-ts/lib/semigroup.d.ts",
+        "../node_modules/fp-ts/lib/show.d.ts",
+        "../node_modules/fp-ts/lib/traversable.d.ts",
+        "../node_modules/fp-ts/lib/traversablewithindex.d.ts",
+        "../node_modules/fp-ts/lib/unfoldable.d.ts",
+        "../node_modules/fp-ts/lib/witherable.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/semigroup.d.ts": [
+        "../node_modules/fp-ts/lib/magma.d.ts",
+        "../node_modules/fp-ts/lib/ord.d.ts",
+        "../node_modules/fp-ts/lib/readonlyrecord.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/show.d.ts": [
+        "../node_modules/fp-ts/lib/readonlyrecord.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/traversable.d.ts": [
+        "../node_modules/fp-ts/hkt.d.ts",
+        "../node_modules/fp-ts/lib/applicative.d.ts",
+        "../node_modules/fp-ts/lib/foldable.d.ts",
+        "../node_modules/fp-ts/lib/functor.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/traversablewithindex.d.ts": [
+        "../node_modules/fp-ts/hkt.d.ts",
+        "../node_modules/fp-ts/lib/applicative.d.ts",
+        "../node_modules/fp-ts/lib/foldablewithindex.d.ts",
+        "../node_modules/fp-ts/lib/functorwithindex.d.ts",
+        "../node_modules/fp-ts/lib/traversable.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/unfoldable.d.ts": [
+        "../node_modules/fp-ts/hkt.d.ts",
+        "../node_modules/fp-ts/lib/option.d.ts"
+      ],
+      "../node_modules/fp-ts/lib/witherable.d.ts": [
+        "../node_modules/fp-ts/hkt.d.ts",
+        "../node_modules/fp-ts/lib/applicative.d.ts",
+        "../node_modules/fp-ts/lib/compactable.d.ts",
+        "../node_modules/fp-ts/lib/either.d.ts",
+        "../node_modules/fp-ts/lib/filterable.d.ts",
+        "../node_modules/fp-ts/lib/option.d.ts",
+        "../node_modules/fp-ts/lib/traversable.d.ts"
+      ],
+      "../node_modules/io-ts/lib/index.d.ts": [
+        "../node_modules/fp-ts/lib/either.d.ts",
+        "../node_modules/fp-ts/lib/function.d.ts"
+      ],
+      "../node_modules/knex/types/index.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/tls.d.ts",
+        "../node_modules/knex/types/result.d.ts",
+        "../node_modules/knex/types/tables.d.ts",
+        "../node_modules/tarn/dist/tarn.d.ts"
+      ],
+      "../node_modules/light-my-request/index.d.ts": [
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/@types/node/stream.d.ts"
+      ],
+      "../node_modules/tarn/dist/pendingoperation.d.ts": [
+        "../node_modules/tarn/dist/utils.d.ts"
+      ],
+      "../node_modules/tarn/dist/pool.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/index.d.ts",
+        "../node_modules/tarn/dist/pendingoperation.d.ts",
+        "../node_modules/tarn/dist/promiseinspection.d.ts",
+        "../node_modules/tarn/dist/resource.d.ts"
+      ],
+      "../node_modules/tarn/dist/resource.d.ts": [
+        "../node_modules/tarn/dist/utils.d.ts"
+      ],
+      "../node_modules/tarn/dist/tarn.d.ts": [
+        "../node_modules/tarn/dist/pool.d.ts",
+        "../node_modules/tarn/dist/timeouterror.d.ts"
+      ],
+      "../node_modules/tarn/dist/utils.d.ts": [
+        "../node_modules/tarn/dist/promiseinspection.d.ts"
+      ],
+      "../src/controllers/pokemon.controllers.ts": [
+        "../node_modules/knex/types/index.d.ts",
+        "../src/generated/contracts/readpokemonscontract.ts"
+      ],
+      "../src/generated/contracts/readpokemonscontract.ts": [
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/fastify/types/route.d.ts",
+        "../node_modules/fastify/types/utils.d.ts"
+      ],
+      "../src/generated/contracts/registerfastify.ts": [
+        "../node_modules/@types/node/http.d.ts",
+        "../node_modules/fastify/types/instance.d.ts",
+        "../node_modules/fastify/types/utils.d.ts",
+        "../src/generated/contracts/readpokemonscontract.ts"
+      ],
+      "../src/generated/types/pokemon.ts": [
+        "../node_modules/io-ts/lib/index.d.ts"
+      ],
+      "../src/generated/types/pokemons.ts": [
+        "../node_modules/io-ts/lib/index.d.ts"
+      ],
+      "../src/migrations/init_db.ts": [
+        "../node_modules/knex/types/index.d.ts"
+      ],
+      "../src/persistence/pokemonrepository.ts": [
+        "../node_modules/knex/types/index.d.ts"
+      ]
+    },
+    "semanticDiagnosticsPerFile": [
+      "../node_modules/@types/json-schema/index.d.ts",
+      "../node_modules/@types/node/assert.d.ts",
+      "../node_modules/@types/node/async_hooks.d.ts",
+      "../node_modules/@types/node/base.d.ts",
+      "../node_modules/@types/node/buffer.d.ts",
+      "../node_modules/@types/node/child_process.d.ts",
+      "../node_modules/@types/node/cluster.d.ts",
+      "../node_modules/@types/node/console.d.ts",
+      "../node_modules/@types/node/constants.d.ts",
+      "../node_modules/@types/node/crypto.d.ts",
+      "../node_modules/@types/node/dgram.d.ts",
+      "../node_modules/@types/node/dns.d.ts",
+      "../node_modules/@types/node/domain.d.ts",
+      "../node_modules/@types/node/events.d.ts",
+      "../node_modules/@types/node/fs.d.ts",
+      "../node_modules/@types/node/fs/promises.d.ts",
+      "../node_modules/@types/node/globals.d.ts",
+      "../node_modules/@types/node/globals.global.d.ts",
+      "../node_modules/@types/node/http.d.ts",
+      "../node_modules/@types/node/http2.d.ts",
+      "../node_modules/@types/node/https.d.ts",
+      "../node_modules/@types/node/index.d.ts",
+      "../node_modules/@types/node/inspector.d.ts",
+      "../node_modules/@types/node/module.d.ts",
+      "../node_modules/@types/node/net.d.ts",
+      "../node_modules/@types/node/os.d.ts",
+      "../node_modules/@types/node/path.d.ts",
+      "../node_modules/@types/node/perf_hooks.d.ts",
+      "../node_modules/@types/node/process.d.ts",
+      "../node_modules/@types/node/punycode.d.ts",
+      "../node_modules/@types/node/querystring.d.ts",
+      "../node_modules/@types/node/readline.d.ts",
+      "../node_modules/@types/node/repl.d.ts",
+      "../node_modules/@types/node/stream.d.ts",
+      "../node_modules/@types/node/string_decoder.d.ts",
+      "../node_modules/@types/node/timers.d.ts",
+      "../node_modules/@types/node/tls.d.ts",
+      "../node_modules/@types/node/trace_events.d.ts",
+      "../node_modules/@types/node/ts3.4/base.d.ts",
+      "../node_modules/@types/node/ts3.6/base.d.ts",
+      "../node_modules/@types/node/tty.d.ts",
+      "../node_modules/@types/node/url.d.ts",
+      "../node_modules/@types/node/util.d.ts",
+      "../node_modules/@types/node/v8.d.ts",
+      "../node_modules/@types/node/vm.d.ts",
+      "../node_modules/@types/node/wasi.d.ts",
+      "../node_modules/@types/node/worker_threads.d.ts",
+      "../node_modules/@types/node/zlib.d.ts",
+      "../node_modules/@types/parse-json/index.d.ts",
+      "../node_modules/@types/swagger-schema-official/index.d.ts",
+      "../node_modules/ajv/lib/ajv.d.ts",
+      "../node_modules/fastify-error/index.d.ts",
+      "../node_modules/fastify/fastify.d.ts",
+      "../node_modules/fastify/types/content-type-parser.d.ts",
+      "../node_modules/fastify/types/context.d.ts",
+      "../node_modules/fastify/types/hooks.d.ts",
+      "../node_modules/fastify/types/instance.d.ts",
+      "../node_modules/fastify/types/logger.d.ts",
+      "../node_modules/fastify/types/plugin.d.ts",
+      "../node_modules/fastify/types/register.d.ts",
+      "../node_modules/fastify/types/reply.d.ts",
+      "../node_modules/fastify/types/request.d.ts",
+      "../node_modules/fastify/types/route.d.ts",
+      "../node_modules/fastify/types/schema.d.ts",
+      "../node_modules/fastify/types/serverfactory.d.ts",
+      "../node_modules/fastify/types/utils.d.ts",
+      "../node_modules/fp-ts/hkt.d.ts",
+      "../node_modules/fp-ts/lib/alt.d.ts",
+      "../node_modules/fp-ts/lib/alternative.d.ts",
+      "../node_modules/fp-ts/lib/applicative.d.ts",
+      "../node_modules/fp-ts/lib/apply.d.ts",
+      "../node_modules/fp-ts/lib/bifunctor.d.ts",
+      "../node_modules/fp-ts/lib/bounded.d.ts",
+      "../node_modules/fp-ts/lib/boundeddistributivelattice.d.ts",
+      "../node_modules/fp-ts/lib/boundedjoinsemilattice.d.ts",
+      "../node_modules/fp-ts/lib/boundedlattice.d.ts",
+      "../node_modules/fp-ts/lib/boundedmeetsemilattice.d.ts",
+      "../node_modules/fp-ts/lib/chain.d.ts",
+      "../node_modules/fp-ts/lib/chainrec.d.ts",
+      "../node_modules/fp-ts/lib/compactable.d.ts",
+      "../node_modules/fp-ts/lib/contravariant.d.ts",
+      "../node_modules/fp-ts/lib/distributivelattice.d.ts",
+      "../node_modules/fp-ts/lib/either.d.ts",
+      "../node_modules/fp-ts/lib/eq.d.ts",
+      "../node_modules/fp-ts/lib/extend.d.ts",
+      "../node_modules/fp-ts/lib/filterable.d.ts",
+      "../node_modules/fp-ts/lib/filterablewithindex.d.ts",
+      "../node_modules/fp-ts/lib/foldable.d.ts",
+      "../node_modules/fp-ts/lib/foldablewithindex.d.ts",
+      "../node_modules/fp-ts/lib/function.d.ts",
+      "../node_modules/fp-ts/lib/functor.d.ts",
+      "../node_modules/fp-ts/lib/functorwithindex.d.ts",
+      "../node_modules/fp-ts/lib/joinsemilattice.d.ts",
+      "../node_modules/fp-ts/lib/lattice.d.ts",
+      "../node_modules/fp-ts/lib/magma.d.ts",
+      "../node_modules/fp-ts/lib/meetsemilattice.d.ts",
+      "../node_modules/fp-ts/lib/monad.d.ts",
+      "../node_modules/fp-ts/lib/monadthrow.d.ts",
+      "../node_modules/fp-ts/lib/monoid.d.ts",
+      "../node_modules/fp-ts/lib/option.d.ts",
+      "../node_modules/fp-ts/lib/ord.d.ts",
+      "../node_modules/fp-ts/lib/ordering.d.ts",
+      "../node_modules/fp-ts/lib/readonlyrecord.d.ts",
+      "../node_modules/fp-ts/lib/semigroup.d.ts",
+      "../node_modules/fp-ts/lib/show.d.ts",
+      "../node_modules/fp-ts/lib/traversable.d.ts",
+      "../node_modules/fp-ts/lib/traversablewithindex.d.ts",
+      "../node_modules/fp-ts/lib/unfoldable.d.ts",
+      "../node_modules/fp-ts/lib/witherable.d.ts",
+      "../node_modules/io-ts/lib/index.d.ts",
+      "../node_modules/knex/types/index.d.ts",
+      "../node_modules/knex/types/result.d.ts",
+      "../node_modules/knex/types/tables.d.ts",
+      "../node_modules/light-my-request/index.d.ts",
+      "../node_modules/tarn/dist/pendingoperation.d.ts",
+      "../node_modules/tarn/dist/pool.d.ts",
+      "../node_modules/tarn/dist/promiseinspection.d.ts",
+      "../node_modules/tarn/dist/resource.d.ts",
+      "../node_modules/tarn/dist/tarn.d.ts",
+      "../node_modules/tarn/dist/timeouterror.d.ts",
+      "../node_modules/tarn/dist/utils.d.ts",
+      "../node_modules/typescript/lib/lib.dom.d.ts",
+      "../node_modules/typescript/lib/lib.dom.iterable.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.collection.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.core.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.generator.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.iterable.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.promise.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.proxy.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.reflect.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.symbol.d.ts",
+      "../node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
+      "../node_modules/typescript/lib/lib.es2016.array.include.d.ts",
+      "../node_modules/typescript/lib/lib.es2016.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.intl.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.object.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.string.d.ts",
+      "../node_modules/typescript/lib/lib.es2017.typedarrays.d.ts",
+      "../node_modules/typescript/lib/lib.es2018.asyncgenerator.d.ts",
+      "../node_modules/typescript/lib/lib.es2018.asynciterable.d.ts",
+      "../node_modules/typescript/lib/lib.es2018.d.ts",
+      "../node_modules/typescript/lib/lib.es2018.intl.d.ts",
+      "../node_modules/typescript/lib/lib.es2018.promise.d.ts",
+      "../node_modules/typescript/lib/lib.es2018.regexp.d.ts",
+      "../node_modules/typescript/lib/lib.es2019.array.d.ts",
+      "../node_modules/typescript/lib/lib.es2019.d.ts",
+      "../node_modules/typescript/lib/lib.es2019.full.d.ts",
+      "../node_modules/typescript/lib/lib.es2019.object.d.ts",
+      "../node_modules/typescript/lib/lib.es2019.string.d.ts",
+      "../node_modules/typescript/lib/lib.es2019.symbol.d.ts",
+      "../node_modules/typescript/lib/lib.es2020.bigint.d.ts",
+      "../node_modules/typescript/lib/lib.es5.d.ts",
+      "../node_modules/typescript/lib/lib.esnext.intl.d.ts",
+      "../node_modules/typescript/lib/lib.scripthost.d.ts",
+      "../node_modules/typescript/lib/lib.webworker.importscripts.d.ts",
+      "../src/controllers/pokemon.controllers.ts",
+      "../src/generated/contracts/readpokemonscontract.ts",
+      "../src/generated/contracts/registerfastify.ts",
+      "../src/generated/types/pokemon.ts",
+      "../src/generated/types/pokemons.ts",
+      "../src/index.ts",
+      "../src/migrations/init_db.ts",
+      "../src/persistence/pokemon.ts",
+      "../src/persistence/pokemonrepository.ts",
+      "../src/persistence/pokemonschema.ts",
+      "../src/services/fil.db.ts"
+    ]
+  },
+  "version": "4.1.3"
+}

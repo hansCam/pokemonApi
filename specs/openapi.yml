@@ -1,0 +1,108 @@
+openapi: 3.0.0
+info:
+  version: 0.1.0
+  title: Pokemon API
+  description: This is a simple CRUD API
+  contact: 
+    email: hans.cameus@fabernovel.com
+servers:
+   -  url: "http://localhost8080"
+paths:
+  /pokemons:
+    get:
+        tags: 
+           - readPokemons
+        operationId: getAllPokemon
+        description: Returns all pokemons
+        responses:
+          '200':
+            description: lists of pokemon
+            content:
+              application/json:
+                schema:
+                  $ref: "#/components/schemas/Pokemons"
+              
+    post:
+      tags: 
+         - writePokemons
+      operationId: addPokemon
+      description: add a pokemon
+      responses:
+        '200':
+          description: add a pokemon                     
+    
+  /pokemons/{id}:
+      get:
+        tags: 
+           - readPokemons
+        operationId: getOnePokemon   
+        description: Return a pokemon based on the id
+        parameters:
+            - name: id
+              in: path
+              schema: 
+                type: string
+                description: name of pokemon
+              required: true  
+        responses:
+          '200':
+            description: return one pokemon
+            content:
+              application/json:
+                schema:
+                  $ref: "#/components/schemas/Pokemons"
+                example:
+                     Pokemon:
+                        name: jon
+      put:
+        tags: 
+          - writePokemons
+        operationId: updatePokemon  
+        description: update a pokemon
+        parameters:
+            - name: id
+              in: path
+              schema: 
+                type: string
+                description: name of pokemon
+              required: true  
+        responses:
+          '204':
+            description: update a pokemon
+
+      delete:
+        tags: 
+          - writePokemons
+        operationId: deleteOnePokemon     
+        description: delete a pokemon
+        parameters:
+            - name: id
+              in: path
+              schema: 
+                type: string
+                description: name of pokemon
+              required: true  
+        responses:
+          '200':
+            description: delete a pokemon
+            
+components:
+        schemas:
+          Pokemons:
+             type: array
+             items: 
+                $ref: "#/components/schemas/Pokemon"
+          Pokemon:
+            type: object
+            properties:
+              id: 
+                type: number
+              name:
+                type: string
+        responses:
+          NotFound:
+            description: Entity not found.
+          IllegalInput:
+            description: Illegal input for operation.
+          GeneralError:
+            description: General Error
