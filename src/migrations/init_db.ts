@@ -1,13 +1,11 @@
 import * as Knex from "knex";
 import fetchPokemons from "../services/fil.db";
 import {columns,tableName} from "../persistence/pokemonSchema";
+import Pokemon from "models/pokemon.model"
 
 
 
 export async function up(knex:Knex): Promise<any> {
-  await knex.schema.raw(`
-    ALTER DATABASE ${knex.client.database()} CHARACTER SET utf8
-  `)
 
    await knex.schema.raw(`
     CREATE TABLE pokemon
@@ -30,5 +28,5 @@ export async function up(knex:Knex): Promise<any> {
 
 
 export async function down(knex: Knex): Promise<any> {
-  await knex.schema.raw(`DROP TABLE IF EXISTS store`)
+  await knex.schema.raw(`DROP TABLE IF EXISTS pokemon`)
 }

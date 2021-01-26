@@ -4,14 +4,14 @@ require("dotenv").config();
 import {up,down} from '../src/migrations/init_db';
 import { registerFastify } from "./generated/contracts/registerFastify";
 import { getAllPokemonControllers } from './controllers/pokemon.controllers';
+import {PokemonRepository} from "../src/persistence/pokemonRepository";
 
 
 
 
 function main():void {
     const server = fastify();
-    const knex = require('knex')({//c r dans larchi la config de la bdd est un detail 
-      //pour les autres composants
+    const knex = require('knex')({
         client: 'mysql',
         connection: {
           host : process.env.DB_HOST,
@@ -24,10 +24,12 @@ function main():void {
 
     up(knex);
     down(knex);
+    const pokeRepo = new PokemonRepository(knex);
 
 
-   registerFastify(server,{
-       readPokemons:getAllPokemonControllers(knex)//presenter
+
+    registerFastify(server,{
+       readPokemons:getAllPokemonControllers(knex,pokeRepo)
     });
  
     return server.listen(8080, (err, address) => {
